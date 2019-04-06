@@ -1,5 +1,5 @@
 # AI
-Projects in AI-related subjects
+Projects in AI-related subjects:
 - Machine Learning
 - Artificial Neural Netwkorks
 - Knowledge Engineering
