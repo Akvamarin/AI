@@ -1,0 +1,110 @@
+@relation P2Mario-data-training-Bot
+
+@attribute isEnemy {right, up, left, none}
+@attribute isCoinMushroom {right, up, left, none}
+@attribute isBlocked {true, false}
+@attribute isOnGround {true, false}
+@attribute jumped {true, false}
+@attribute distancePassedPhys NUMERIC
+@attribute marioStatus NUMERIC
+@attribute coinsGained NUMERIC
+@attribute mushroomsDevoured NUMERIC
+@attribute killsByStomp NUMERIC
+@attribute action {right, left, jump, jump_right, jump_left, still}
+@attribute reward NUMERIC
+@attribute situation {enemy_right_ground, enemy_right_ground_jumped, enemy_right_air, enemy_left, enemy_up, coin_mushroom_right, coin_mushroom_left, coin_mushroom_up, blocked_ground, blocked_ground_jumped, blocked_air, normal}
+@attribute situation_+12 {enemy_right_ground, enemy_right_ground_jumped, enemy_right_air, enemy_left, enemy_up, coin_mushroom_right, coin_mushroom_left, coin_mushroom_up, blocked_ground, blocked_ground_jumped, blocked_air, normal}
+
+@data
+right,none,false,false,false,27,-1,0,0,0,still,13.5,enemy_right_air,enemy_left
+right,none,false,false,false,38,-1,0,0,0,right,19.0,enemy_right_air,enemy_left
+right,none,false,false,false,62,-1,0,0,0,right,31.0,enemy_right_air,enemy_left
+right,none,false,false,true,3,0,0,0,0,jump,1.5,enemy_right_air,enemy_right_ground
+right,none,false,false,false,32,-1,0,0,0,right,16.0,enemy_right_air,enemy_left
+right,none,false,false,false,-2,0,0,0,0,right,0.0,enemy_right_air,normal
+right,none,false,false,true,0,0,0,0,0,jump,0.0,enemy_right_air,enemy_right_air
+right,none,false,false,false,0,0,0,0,0,still,0.0,enemy_right_air,normal
+right,none,false,false,true,8,0,0,0,0,jump,4.0,enemy_right_air,enemy_right_ground
+right,none,false,false,true,16,-1,0,0,0,still,8.0,enemy_right_air,normal
+right,none,false,false,false,39,-1,0,0,0,right,19.5,enemy_right_air,enemy_left
+right,none,false,false,false,42,-1,0,0,0,right,21.0,enemy_right_air,enemy_left
+right,none,false,false,false,34,-1,0,0,0,still,17.0,enemy_right_air,enemy_left
+right,up,false,false,false,20,0,0,0,0,still,10.0,enemy_right_air,enemy_right_ground
+right,up,false,false,false,22,0,0,0,0,still,11.0,enemy_right_air,enemy_right_ground
+right,none,false,false,true,24,0,0,0,0,jump,12.0,enemy_right_air,enemy_right_ground
+right,none,false,false,false,8,-1,0,0,0,still,4.0,enemy_right_air,normal
+right,none,false,false,false,6,-1,0,0,0,still,3.0,enemy_right_air,normal
+right,none,false,false,true,11,0,0,0,0,jump,5.5,enemy_right_air,enemy_right_ground
+right,none,false,false,false,39,-1,0,0,0,right,19.5,enemy_right_air,enemy_left
+right,none,false,false,false,42,-1,0,0,0,right,21.0,enemy_right_air,enemy_left
+right,none,false,false,false,-30,0,0,0,0,left,0.0,enemy_right_air,normal
+right,none,false,false,true,10,0,0,0,0,jump,5.0,enemy_right_air,enemy_right_ground
+right,none,false,false,false,-13,0,0,0,0,still,0.0,enemy_right_air,enemy_right_ground
+right,none,false,false,true,8,0,0,0,0,jump,4.0,enemy_right_air,enemy_right_ground
+right,none,false,false,false,-18,0,0,0,0,still,0.0,enemy_right_air,enemy_right_ground
+right,none,false,false,true,-13,0,0,0,0,jump,0.0,enemy_right_air,enemy_right_air
+right,none,false,false,true,-17,0,0,0,0,jump,0.0,enemy_right_air,enemy_right_ground
+right,none,false,false,false,-27,0,0,0,0,left,0.0,enemy_right_air,enemy_right_ground
+right,none,false,false,true,-3,-1,0,0,0,jump,0.0,enemy_right_air,enemy_right_ground
+right,none,false,false,false,0,-1,0,0,0,still,0.0,enemy_right_air,normal
+right,none,false,false,false,0,-1,0,0,0,still,0.0,enemy_right_air,normal
+right,none,false,false,true,-14,0,0,0,0,jump,0.0,enemy_right_air,normal
+right,none,false,false,false,16,0,0,0,0,still,8.0,enemy_right_air,enemy_right_ground
+right,none,false,false,false,15,0,0,0,0,still,7.5,enemy_right_air,enemy_right_ground
+right,none,false,false,false,13,0,0,0,0,still,6.5,enemy_right_air,enemy_right_ground
+right,none,false,false,true,-16,0,0,0,0,jump,0.0,enemy_right_air,enemy_right_ground
+right,none,false,false,false,-11,0,0,0,0,left,0.0,enemy_right_air,enemy_right_ground
+right,none,false,false,true,-14,0,0,0,0,jump,0.0,enemy_right_air,enemy_right_ground_jumped
+right,none,false,false,true,-16,0,0,0,0,jump_left,0.0,enemy_right_air,enemy_right_ground_jumped
+right,none,false,false,true,-13,0,0,0,0,jump,0.0,enemy_right_air,enemy_right_ground
+right,none,false,false,false,-9,0,0,0,0,left,0.0,enemy_right_air,normal
+right,none,false,false,true,-28,0,0,0,0,jump_left,0.0,enemy_right_air,normal
+right,none,false,false,true,14,0,0,0,0,jump,7.0,enemy_right_air,enemy_right_ground
+right,none,false,false,true,-11,0,0,0,0,jump_left,0.0,enemy_right_air,enemy_right_air
+right,none,false,false,false,-3,-1,0,0,0,still,0.0,enemy_right_air,normal
+right,none,false,false,true,-6,0,0,0,0,jump,0.0,enemy_right_air,enemy_right_air
+right,none,false,false,false,-4,0,0,0,0,still,0.0,enemy_right_air,normal
+right,none,false,false,true,-26,0,0,0,0,jump,0.0,enemy_right_air,normal
+right,none,false,false,false,8,0,0,0,0,jump,4.0,enemy_right_air,enemy_right_ground
+right,none,false,false,true,0,0,0,0,0,jump,0.0,enemy_right_air,enemy_right_ground_jumped
+right,none,false,false,true,0,0,0,0,0,jump,0.0,enemy_right_air,normal
+right,none,false,false,true,-5,0,0,0,1,jump,33.0,enemy_right_air,normal
+right,right,false,false,false,34,-1,3,0,0,right,116.0,enemy_right_air,coin_mushroom_up
+right,none,false,false,false,27,-1,1,0,0,right,46.5,enemy_right_air,coin_mushroom_up
+right,none,false,false,false,15,0,0,0,1,still,40.5,enemy_right_air,normal
+right,none,false,false,false,13,0,0,0,1,still,39.5,enemy_right_air,normal
+right,none,false,false,true,-11,0,0,0,0,jump_left,0.0,enemy_right_air,normal
+right,none,false,false,true,-41,0,0,0,0,jump_left,0.0,enemy_right_air,enemy_right_ground
+right,none,false,false,true,-24,0,0,0,0,jump_left,0.0,enemy_right_air,normal
+right,none,false,false,false,-12,0,0,0,0,still,0.0,enemy_right_air,normal
+right,none,false,false,true,-27,0,0,0,0,jump_left,0.0,enemy_right_air,normal
+right,none,false,false,false,0,-1,0,0,0,left,0.0,enemy_right_air,normal
+right,none,false,false,true,-27,0,0,0,0,jump_left,0.0,enemy_right_air,normal
+right,none,false,false,false,15,0,0,0,0,still,7.5,enemy_right_air,enemy_right_ground
+right,none,false,false,true,-5,0,0,0,0,jump,0.0,enemy_right_air,enemy_right_ground_jumped
+right,none,false,false,true,-30,0,0,0,0,jump_left,0.0,enemy_right_air,enemy_right_ground_jumped
+right,none,false,false,true,-21,0,0,0,0,jump_left,0.0,enemy_right_air,normal
+right,none,false,false,false,21,0,0,0,0,still,10.5,enemy_right_air,enemy_right_ground
+right,none,false,false,true,-23,0,0,0,0,jump_left,0.0,enemy_right_air,enemy_right_ground_jumped
+right,none,false,false,true,-18,0,0,0,0,jump_left,0.0,enemy_right_air,enemy_right_ground_jumped
+right,none,false,false,true,-23,0,0,0,0,jump_left,0.0,enemy_right_air,normal
+right,none,false,false,false,18,0,0,0,0,still,9.0,enemy_right_air,enemy_right_air
+right,none,false,false,true,-7,0,0,0,0,jump_left,0.0,enemy_right_air,enemy_right_air
+right,none,false,false,false,-27,0,0,0,0,jump_left,0.0,enemy_right_air,enemy_right_ground_jumped
+right,none,false,false,true,-28,0,0,0,0,jump_left,0.0,enemy_right_air,normal
+right,none,false,false,false,23,0,0,0,0,still,11.5,enemy_right_air,enemy_right_ground
+right,none,false,false,false,23,0,0,0,0,still,11.5,enemy_right_air,enemy_right_ground
+right,none,false,false,true,-1,0,0,0,0,jump,0.0,enemy_right_air,enemy_right_ground
+right,none,false,false,false,-32,0,0,0,0,left,0.0,enemy_right_air,enemy_right_ground
+right,none,false,false,true,-18,0,0,0,0,jump_left,0.0,enemy_right_air,normal
+right,none,false,false,false,-24,0,0,0,0,still,0.0,enemy_right_air,normal
+right,none,false,false,true,-36,0,0,0,0,jump_left,0.0,enemy_right_air,normal
+right,none,false,false,true,-4,-1,0,0,0,jump_left,0.0,enemy_right_air,normal
+right,none,false,false,false,5,0,0,0,0,still,2.5,enemy_right_air,enemy_right_ground
+right,none,false,false,true,-22,0,0,0,0,jump_left,0.0,enemy_right_air,enemy_right_air
+right,none,false,false,false,-18,0,0,0,0,still,0.0,enemy_right_air,normal
+right,none,false,false,true,-22,0,0,0,0,jump,0.0,enemy_right_air,normal
+right,none,false,false,false,22,0,0,0,0,still,11.0,enemy_right_air,enemy_right_ground
+right,none,false,false,false,20,0,0,0,0,still,10.0,enemy_right_air,enemy_right_ground
+right,none,false,false,true,-22,0,0,0,0,jump_left,0.0,enemy_right_air,enemy_right_air
+right,none,false,false,false,-8,0,0,0,0,jump,0.0,enemy_right_air,enemy_right_ground_jumped

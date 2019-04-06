@@ -1,0 +1,78 @@
+@RELATION P2Mario-data-training-Bot
+
+@ATTRIBUTE isEnemy {Front, Up, Behind, None}
+@ATTRIBUTE isCoinMushroom {Front, Up, Behind, None}
+@ATTRIBUTE isBlocked {true, false}
+@ATTRIBUTE isOnGround {true, false}
+@ATTRIBUTE jumped {true, false}
+@ATTRIBUTE distancePassedPhys NUMERIC
+@ATTRIBUTE marioStatus NUMERIC
+@ATTRIBUTE coinsGained NUMERIC
+@ATTRIBUTE mushroomsDevoured NUMERIC
+@ATTRIBUTE killsByStomp NUMERIC
+@ATTRIBUTE action {move, move_jump, still}
+@ATTRIBUTE evaluation NUMERIC
+@ATTRIBUTE situation {coin_mushroom, enemy, blocked, no_blocked}
+@data
+Front,None,false,true,false,32,0,0,0,0,move_jump,null,enemy
+None,None,true,true,false,13,0,0,0,0,move_jump,null,blocked
+None,Front,false,true,false,33,0,1,0,0,move,null,coin_mushroom
+None,Front,false,true,false,32,0,2,0,0,move,null,no_blocked
+None,Front,false,true,false,29,0,4,0,0,move,null,coin_mushroom
+None,Up,true,true,false,12,0,3,0,0,move_jump,null,blocked
+Front,Front,false,false,false,30,0,3,0,1,move_jump,null,enemy
+Front,Front,false,false,false,30,0,3,0,1,move_jump,null,no_blocked
+None,Front,false,false,true,30,0,3,0,0,move,null,coin_mushroom
+None,Front,true,false,false,8,0,0,0,0,move_jump,null,blocked
+Front,None,false,false,false,32,0,0,0,1,move_jump,null,enemy
+Front,None,false,false,false,32,0,0,0,1,move_jump,null,no_blocked
+Front,None,false,false,true,33,0,0,0,1,move_jump,null,enemy
+None,Front,false,false,false,7,0,0,0,0,move,null,coin_mushroom
+None,Front,true,false,false,2,0,0,0,0,move_jump,null,blocked
+None,Front,false,false,true,10,0,0,0,0,move,null,no_blocked
+None,Front,false,false,false,13,0,0,0,0,move,null,coin_mushroom
+Front,None,false,true,false,33,0,0,0,0,move_jump,null,enemy
+None,None,true,false,false,33,0,0,0,0,move_jump,null,blocked
+None,None,false,false,true,32,0,0,0,0,move,null,no_blocked
+Front,None,false,true,false,32,0,0,0,0,move_jump,null,enemy
+Behind,None,true,false,false,7,0,0,0,0,move_jump,null,blocked
+None,Front,true,false,true,7,0,0,0,0,move_jump,null,coin_mushroom
+None,Front,false,false,true,10,0,0,0,0,move,null,no_blocked
+None,Front,false,false,false,13,0,0,0,0,move,null,coin_mushroom
+None,Front,true,false,false,9,0,0,0,1,move_jump,null,blocked
+Front,None,false,false,false,26,0,1,0,1,move_jump,null,enemy
+Front,None,false,false,false,26,0,1,0,1,move_jump,null,no_blocked
+None,None,true,true,false,12,0,0,0,0,move_jump,null,blocked
+None,Front,true,false,false,8,0,0,0,0,move_jump,null,coin_mushroom
+Behind,None,false,false,false,18,0,0,0,0,move,null,enemy
+Behind,None,false,false,false,18,0,0,0,0,move,null,no_blocked
+None,Front,true,false,false,8,0,0,0,0,move_jump,null,coin_mushroom
+None,Front,true,false,true,2,0,0,0,0,move_jump,null,blocked
+Behind,None,true,false,true,0,0,0,0,0,move_jump,null,enemy
+None,Front,false,false,true,13,0,0,0,0,move,null,no_blocked
+None,Front,false,false,false,15,0,0,0,0,move,null,coin_mushroom
+Front,Front,false,true,false,24,0,2,0,0,move_jump,null,enemy
+None,None,true,false,false,32,0,0,0,0,move_jump,null,blocked
+None,None,false,false,true,33,0,0,0,0,move,null,no_blocked
+None,Front,false,false,false,33,0,1,0,0,move,null,coin_mushroom
+None,Up,true,true,false,14,0,3,0,0,move_jump,null,blocked
+Front,None,false,true,false,33,0,0,0,0,move_jump,null,enemy
+Front,None,false,true,false,33,0,0,0,0,move_jump,null,no_blocked
+Front,None,false,true,true,32,0,0,0,0,move,null,enemy
+None,Front,false,false,false,33,0,2,0,0,move,null,coin_mushroom
+None,Front,true,false,false,8,0,2,0,0,move_jump,null,blocked
+None,Front,false,false,true,13,0,1,0,0,move,null,no_blocked
+None,Front,false,false,false,15,0,0,0,0,move,null,coin_mushroom
+None,Front,true,false,false,5,0,2,0,0,move_jump,null,blocked
+Front,None,false,false,false,29,0,0,0,0,move_jump,null,enemy
+Front,None,false,false,false,29,0,0,0,0,move_jump,null,no_blocked
+Front,None,false,true,false,30,0,0,0,0,move_jump,null,enemy
+None,None,true,false,false,7,0,0,0,0,move_jump,null,blocked
+Behind,Front,false,false,false,33,0,2,0,0,move,null,coin_mushroom
+Behind,Front,false,false,false,32,0,2,0,0,move,null,no_blocked
+None,Front,false,true,false,33,0,4,0,0,move,null,coin_mushroom
+Front,None,false,false,false,33,0,0,0,0,move_jump,null,enemy
+Behind,None,true,false,false,9,0,0,0,1,move_jump,null,blocked
+None,None,false,false,true,13,0,0,0,0,move,null,no_blocked
+None,None,true,true,false,13,0,0,0,0,move_jump,null,blocked
+Front,None,false,false,false,30,0,0,0,0,move_jump,null,enemy

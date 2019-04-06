@@ -1,0 +1,67 @@
+@relation P2Mario-data-training-Bot
+
+@attribute isEnemy {right, up, left, none}
+@attribute isCoinMushroom {right, up, left, none}
+@attribute isBlocked {true, false}
+@attribute isOnGround {true, false}
+@attribute jumped {true, false}
+@attribute distancePassedPhys NUMERIC
+@attribute marioStatus NUMERIC
+@attribute coinsGained NUMERIC
+@attribute mushroomsDevoured NUMERIC
+@attribute killsByStomp NUMERIC
+@attribute action {right, left, jump, jump_right, jump_left, still}
+@attribute reward NUMERIC
+@attribute situation {enemy_right_ground, enemy_right_ground_jumped, enemy_right_air, enemy_left, enemy_up, coin_mushroom_right, coin_mushroom_left, coin_mushroom_up, blocked_ground, blocked_ground_jumped, blocked_air, normal}
+@attribute situation_+12 {enemy_right_ground, enemy_right_ground_jumped, enemy_right_air, enemy_left, enemy_up, coin_mushroom_right, coin_mushroom_left, coin_mushroom_up, blocked_ground, blocked_ground_jumped, blocked_air, normal}
+
+@data
+up,none,true,true,false,-65,-1,0,0,0,left,0.0,enemy_up,enemy_right_ground
+up,none,true,true,false,-69,-1,0,0,0,left,0.0,enemy_up,enemy_right_ground
+up,none,true,true,false,-67,-1,0,0,0,left,0.0,enemy_up,enemy_right_ground
+up,none,true,true,false,-25,0,0,0,0,still,0.0,enemy_up,enemy_right_ground
+up,none,true,true,false,-65,0,0,0,0,left,0.0,enemy_up,enemy_right_ground
+up,none,true,true,false,-69,0,0,0,0,left,0.0,enemy_up,enemy_right_ground
+up,none,true,true,false,-67,0,0,0,0,left,0.0,enemy_up,enemy_right_ground
+up,none,true,true,false,-64,0,0,0,0,left,0.0,enemy_up,enemy_right_ground
+up,none,true,true,false,-26,-1,0,0,0,left,0.0,enemy_up,enemy_right_ground
+up,none,true,true,false,-27,-1,0,0,0,left,0.0,enemy_up,enemy_right_ground
+up,none,true,true,false,-29,-1,0,0,0,still,0.0,enemy_up,enemy_right_ground
+up,none,true,true,false,-31,-1,0,0,0,still,0.0,enemy_up,enemy_right_ground
+up,none,true,false,true,0,0,0,0,0,jump,0.0,enemy_up,normal
+up,none,true,true,false,7,-1,0,0,0,still,3.5,enemy_up,normal
+up,none,true,true,false,0,-1,0,0,0,jump,0.0,enemy_up,normal
+up,none,true,false,true,0,0,0,0,0,jump,0.0,enemy_up,normal
+up,none,true,false,true,24,0,0,0,0,jump_right,12.0,enemy_up,normal
+up,none,true,true,false,5,-1,0,0,0,still,2.5,enemy_up,coin_mushroom_right
+up,none,true,true,false,7,-1,0,0,0,still,3.5,enemy_up,coin_mushroom_right
+up,none,true,true,false,10,-1,0,0,0,still,5.0,enemy_up,coin_mushroom_right
+up,none,true,true,false,16,-1,0,0,0,still,8.0,enemy_up,normal
+up,none,true,true,false,18,-1,0,0,0,jump,9.0,enemy_up,normal
+up,none,true,false,true,20,0,0,0,0,jump_right,10.0,enemy_up,normal
+up,none,true,false,true,22,0,0,0,0,jump_right,11.0,enemy_up,normal
+up,none,true,false,true,-36,-1,0,0,0,jump_left,0.0,enemy_up,normal
+up,none,true,true,false,-33,-1,0,0,0,jump_left,0.0,enemy_up,normal
+up,none,true,false,true,-36,0,0,0,0,jump_left,0.0,enemy_up,normal
+up,up,true,true,true,0,0,0,0,0,jump_right,0.0,enemy_up,coin_mushroom_up
+up,up,true,true,true,0,0,0,0,0,jump_right,0.0,enemy_up,coin_mushroom_up
+up,none,true,true,false,0,-1,0,0,0,still,0.0,enemy_up,blocked_ground
+up,none,true,true,false,0,-1,0,0,0,still,0.0,enemy_up,blocked_ground
+up,none,true,true,false,0,-1,0,0,0,still,0.0,enemy_up,blocked_ground
+up,none,true,true,false,0,-1,0,0,0,still,0.0,enemy_up,blocked_ground
+up,none,true,true,false,9,-1,0,0,0,right,4.5,enemy_up,blocked_ground
+up,none,true,true,false,9,-1,0,0,0,right,4.5,enemy_up,blocked_ground
+up,none,true,true,false,9,-1,0,0,0,right,4.5,enemy_up,blocked_ground
+up,none,true,true,false,9,-1,0,0,0,right,4.5,enemy_up,blocked_ground
+up,none,true,true,false,9,-1,0,0,0,right,4.5,enemy_up,blocked_ground
+up,none,true,true,false,0,-1,0,0,0,still,0.0,enemy_up,blocked_ground
+up,none,true,true,false,0,-1,0,0,0,still,0.0,enemy_up,blocked_ground
+up,none,true,true,false,0,-1,0,0,0,still,0.0,enemy_up,blocked_ground
+up,none,true,true,false,0,-1,0,0,0,still,0.0,enemy_up,blocked_ground
+up,none,true,true,false,0,-1,0,0,0,still,0.0,enemy_up,blocked_ground
+up,none,true,true,false,0,-1,0,0,0,still,0.0,enemy_up,blocked_ground
+up,none,true,true,false,0,-1,0,0,0,still,0.0,enemy_up,blocked_ground
+up,none,true,true,false,0,-1,0,0,0,still,0.0,enemy_up,blocked_ground
+up,none,true,true,false,11,-1,0,0,0,still,5.5,enemy_up,blocked_ground
+up,none,true,true,false,5,-1,0,0,0,still,2.5,enemy_up,blocked_ground
+up,none,true,true,false,0,-1,0,0,0,still,0.0,enemy_up,blocked_ground
