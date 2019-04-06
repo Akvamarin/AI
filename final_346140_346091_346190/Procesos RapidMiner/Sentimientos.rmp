@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><process version="9.0.003">
+  <context>
+    <input/>
+    <output/>
+    <macros/>
+  </context>
+  <operator activated="true" class="process" compatibility="9.0.003" expanded="true" name="Process">
+    <parameter key="logverbosity" value="init"/>
+    <parameter key="random_seed" value="2001"/>
+    <parameter key="send_mail" value="never"/>
+    <parameter key="notification_email" value=""/>
+    <parameter key="process_duration_for_mail" value="30"/>
+    <parameter key="encoding" value="SYSTEM"/>
+    <process expanded="true">
+      <operator activated="true" class="read_excel" compatibility="9.0.003" expanded="true" height="68" name="Read Excel" width="90" x="112" y="187">
+        <parameter key="excel_file" value="C:\Users\pablo\Desktop\4 Curso\IA en las Organizaciones\Practicas\Final\Albert_Rivera1.xlsx"/>
+        <parameter key="sheet_selection" value="sheet number"/>
+        <parameter key="sheet_number" value="3"/>
+        <parameter key="imported_cell_range" value="D2:D20"/>
+        <parameter key="encoding" value="SYSTEM"/>
+        <parameter key="first_row_as_names" value="true"/>
+        <list key="annotations"/>
+        <parameter key="date_format" value="MMM d, yyyy h:mm:ss a z"/>
+        <parameter key="time_zone" value="SYSTEM"/>
+        <parameter key="locale" value="English (United States)"/>
+        <parameter key="read_all_values_as_polynominal" value="false"/>
+        <list key="data_set_meta_data_information">
+          <parameter key="0" value="Tweet Text.true.polynominal.attribute"/>
+        </list>
+        <parameter key="read_not_matching_values_as_missings" value="false"/>
+        <parameter key="datamanagement" value="double_array"/>
+        <parameter key="data_management" value="auto"/>
+      </operator>
+      <operator activated="true" class="com.aylien.textapi.rapidminer:aylien_sentiment" compatibility="0.2.000" expanded="true" height="68" name="Analyze Sentiment" width="90" x="514" y="187">
+        <parameter key="connection" value="AylienConnection"/>
+        <parameter key="input_attribute" value="Tweet Text"/>
+        <parameter key="sentiment_mode" value="tweet"/>
+        <parameter key="Is input URL" value="false"/>
+      </operator>
+      <connect from_op="Read Excel" from_port="output" to_op="Analyze Sentiment" to_port="Example Set"/>
+      <connect from_op="Analyze Sentiment" from_port="Example Set" to_port="result 1"/>
+      <portSpacing port="source_input 1" spacing="0"/>
+      <portSpacing port="sink_result 1" spacing="0"/>
+      <portSpacing port="sink_result 2" spacing="0"/>
+    </process>
+  </operator>
+</process>

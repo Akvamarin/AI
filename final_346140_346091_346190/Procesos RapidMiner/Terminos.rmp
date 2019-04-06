@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><process version="9.0.003">
+  <context>
+    <input/>
+    <output/>
+    <macros/>
+  </context>
+  <operator activated="true" class="process" compatibility="9.0.003" expanded="true" name="Process">
+    <parameter key="logverbosity" value="init"/>
+    <parameter key="random_seed" value="2001"/>
+    <parameter key="send_mail" value="never"/>
+    <parameter key="notification_email" value=""/>
+    <parameter key="process_duration_for_mail" value="30"/>
+    <parameter key="encoding" value="SYSTEM"/>
+    <process expanded="true">
+      <operator activated="true" class="text:process_document_from_file" compatibility="8.1.000" expanded="true" height="82" name="Process Documents from Files" width="90" x="246" y="85">
+        <list key="text_directories">
+          <parameter key="AR" value="C:\Users\pablo\Desktop\4 Curso\IA en las Organizaciones\Practicas\Final\AlbertRiveraPalabras\Fecha2"/>
+          <parameter key="PC" value="C:\Users\pablo\Desktop\4 Curso\IA en las Organizaciones\Practicas\Final\PabloCasadoPalabras\Fecha2"/>
+          <parameter key="PI" value="C:\Users\pablo\Desktop\4 Curso\IA en las Organizaciones\Practicas\Final\PabloIglesiasPalabras\Fecha2"/>
+          <parameter key="PS" value="C:\Users\pablo\Desktop\4 Curso\IA en las Organizaciones\Practicas\Final\PedroSanchezPalabras\Fecha2"/>
+          <parameter key="SA" value="C:\Users\pablo\Desktop\4 Curso\IA en las Organizaciones\Practicas\Final\SantiAbascalPalabras\Fecha2"/>
+        </list>
+        <parameter key="file_pattern" value="*"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+        <parameter key="create_word_vector" value="true"/>
+        <parameter key="vector_creation" value="TF-IDF"/>
+        <parameter key="add_meta_information" value="true"/>
+        <parameter key="keep_text" value="false"/>
+        <parameter key="prune_method" value="none"/>
+        <parameter key="prune_below_percent" value="3.0"/>
+        <parameter key="prune_above_percent" value="30.0"/>
+        <parameter key="prune_below_rank" value="0.05"/>
+        <parameter key="prune_above_rank" value="0.95"/>
+        <parameter key="datamanagement" value="double_sparse_array"/>
+        <parameter key="data_management" value="auto"/>
+        <process expanded="true">
+          <operator activated="true" class="text:transform_cases" compatibility="8.1.000" expanded="true" height="68" name="Transform Cases" width="90" x="112" y="238">
+            <parameter key="transform_to" value="lower case"/>
+          </operator>
+          <operator activated="true" class="text:tokenize" compatibility="8.1.000" expanded="true" height="68" name="Tokenize" width="90" x="246" y="238">
+            <parameter key="mode" value="specify characters"/>
+            <parameter key="characters" value=".: ,;!?&quot;"/>
+            <parameter key="language" value="English"/>
+            <parameter key="max_token_length" value="3"/>
+          </operator>
+          <operator activated="true" class="text:filter_stopwords_dictionary" compatibility="8.1.000" expanded="true" height="82" name="Filter Stopwords (Dictionary)" width="90" x="514" y="238">
+            <parameter key="file" value="C:\Users\pablo\Desktop\4 Curso\IA en las Organizaciones\Practicas\Final\stopwords.txt"/>
+            <parameter key="case_sensitive" value="false"/>
+            <parameter key="encoding" value="SYSTEM"/>
+          </operator>
+          <operator activated="true" class="text:filter_by_length" compatibility="8.1.000" expanded="true" height="68" name="Filter Tokens (by Length)" width="90" x="648" y="238">
+            <parameter key="min_chars" value="2"/>
+            <parameter key="max_chars" value="25"/>
+          </operator>
+          <connect from_port="document" to_op="Transform Cases" to_port="document"/>
+          <connect from_op="Transform Cases" from_port="document" to_op="Tokenize" to_port="document"/>
+          <connect from_op="Tokenize" from_port="document" to_op="Filter Stopwords (Dictionary)" to_port="document"/>
+          <connect from_op="Filter Stopwords (Dictionary)" from_port="document" to_op="Filter Tokens (by Length)" to_port="document"/>
+          <connect from_op="Filter Tokens (by Length)" from_port="document" to_port="document 1"/>
+          <portSpacing port="source_document" spacing="0"/>
+          <portSpacing port="sink_document 1" spacing="0"/>
+          <portSpacing port="sink_document 2" spacing="0"/>
+        </process>
+      </operator>
+      <connect from_op="Process Documents from Files" from_port="word list" to_port="result 1"/>
+      <portSpacing port="source_input 1" spacing="0"/>
+      <portSpacing port="sink_result 1" spacing="0"/>
+      <portSpacing port="sink_result 2" spacing="0"/>
+    </process>
+  </operator>
+</process>
