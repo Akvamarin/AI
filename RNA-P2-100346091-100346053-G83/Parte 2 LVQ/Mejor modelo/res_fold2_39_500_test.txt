@@ -1,0 +1,9 @@
+
+Recognition accuracy:
+
+     nube:  171 entries  77.19 %
+multinube:   52 entries  36.54 %
+cieloDespejado:   16 entries  93.75 %
+
+Total accuracy:   239 entries  69.46 %
+
