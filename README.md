@@ -1,6 +1,6 @@
 # AI
 Projects in AI-related subjects:
-- Machine Learning
-- Artificial Neural Netwkorks
-- Knowledge Engineering
-- Artificial Intelligence in Business
+- Machine Learning / AA
+- Artificial Neural Netwkorks / RNA
+- Knowledge Engineering / IC
+- Artificial Intelligence in Business / IAO
