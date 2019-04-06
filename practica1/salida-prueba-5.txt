@@ -1,0 +1,670 @@
+Estrategia cambiada a random.
+Fase: PRINCIPIO DE RONDA.
+Periodo: 1 Ronda: 1.
+Nueva carta de ronda disponible: 1-oveja.
+El jugador 1 comienza la ronda por ser el jugador inicial.
+Fase: REPOSICION.
+Repuesto el número de unidades del recurso de la carta 1-adobe. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta 3-maderas. Cantidad total: 3.
+Repuesto el número de unidades del recurso de la carta 1-junco. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta 1-oveja. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta coger-1-cereal. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta pescar. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta jornalero. Cantidad total: 2.
+Fase: JORNADA LABORAL.
+El jugador 1 obtiene 1 JUNCO usando la carta 1-junco. Cantidad JUNCO: 1.
+El jugador 2 obtiene 1 CEREAL usando la carta coger-1-cereal. Cantidad CEREAL: 21.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en la habitación del terreno 1. Cantidad OVEJA: 1.
+El jugador 2 obtiene 1 COMIDA usando la carta pescar. Cantidad COMIDA: 4.
+Fase: REGRESO AL HOGAR.
+Reseteando estados y valores temporales...
+Fase: PRINCIPIO DE RONDA.
+Periodo: 1 Número: 2.
+Nueva carta de ronda disponible: 1-adquisicion-mayor-o-menor.
+El jugador 1 comienza la ronda por ser el jugador inicial.
+Fase: REPOSICION.
+Repuesto el número de unidades del recurso de la carta 1-oveja. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta pescar. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta 1-adobe. Cantidad total: 2.
+Repuesto el número de unidades del recurso de la carta 1-junco. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta jornalero. Cantidad total: 4.
+Repuesto el número de unidades del recurso de la carta coger-1-cereal. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta 3-maderas. Cantidad total: 6.
+Fase: JORNADA LABORAL.
+El jugador 1 pasa a ser el nuevo jugador inicial usando la carta jugador-inicial-y-o-adquisicion-menor.
+El jugador 2 obtiene 1 JUNCO usando la carta 1-junco. Cantidad JUNCO: 1.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en la habitación del terreno 2. Cantidad OVEJA: 2.
+El jugador 2 obtiene 2 ADOBE usando la carta 1-adobe. Cantidad ADOBE: 2.
+Fase: REGRESO AL HOGAR.
+Reseteando estados y valores temporales...
+Fase: PRINCIPIO DE RONDA.
+Periodo: 1 Número: 3.
+Nueva carta de ronda disponible: construir-vallas.
+El jugador 1 comienza la ronda por ser el jugador inicial.
+Fase: REPOSICION.
+Repuesto el número de unidades del recurso de la carta jornalero. Cantidad total: 6.
+Repuesto el número de unidades del recurso de la carta 3-maderas. Cantidad total: 9.
+Repuesto el número de unidades del recurso de la carta 1-oveja. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta 1-adobe. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta coger-1-cereal. Cantidad total: 2.
+Repuesto el número de unidades del recurso de la carta pescar. Cantidad total: 2.
+Repuesto el número de unidades del recurso de la carta 1-junco. Cantidad total: 1.
+Fase: JORNADA LABORAL.
+El jugador 1 obtiene 1 ADOBE usando la carta 1-adobe. Cantidad ADOBE: 1.
+El jugador 2 pasa a ser el nuevo jugador inicial usando la carta jugador-inicial-y-o-adquisicion-menor.
+El jugador 1 obtiene 1 JUNCO usando la carta 1-junco. Cantidad JUNCO: 2.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en la habitación del terreno 1. Cantidad OVEJA: 1.
+Fase: REGRESO AL HOGAR.
+Reseteando estados y valores temporales...
+Fase: PRINCIPIO DE RONDA.
+Periodo: 1 Número: 4.
+Nueva carta de ronda disponible: sembrar-y-o-hornear-pan.
+El jugador 2 comienza la ronda por ser el jugador inicial.
+Fase: REPOSICION.
+Repuesto el número de unidades del recurso de la carta 1-oveja. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta coger-1-cereal. Cantidad total: 3.
+Repuesto el número de unidades del recurso de la carta 1-adobe. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta 3-maderas. Cantidad total: 12.
+Repuesto el número de unidades del recurso de la carta pescar. Cantidad total: 3.
+Repuesto el número de unidades del recurso de la carta 1-junco. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta jornalero. Cantidad total: 8.
+Fase: JORNADA LABORAL.
+El jugador 2 siembra un campo del terreno 12 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 3 cereales. Cantidad CEREAL: 20.
+El jugador 2 siembra un campo del terreno 14 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 2 hortalizas. Cantidad HORTALIZA: 19.
+El jugador 2 siembra un campo del terreno 11 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 2 hortalizas. Cantidad HORTALIZA: 18.
+El jugador 2 siembra un campo del terreno 7 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 3 cereales. Cantidad CEREAL: 19.
+El jugador 2 siembra un campo del terreno 8 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 2 hortalizas. Cantidad HORTALIZA: 17.
+El jugador 2 siembra un campo del terreno 15 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 2 hortalizas. Cantidad HORTALIZA: 16.
+El jugador 2 siembra un campo del terreno 3 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 2 hortalizas. Cantidad HORTALIZA: 15.
+El jugador 2 siembra un campo del terreno 4 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 2 hortalizas. Cantidad HORTALIZA: 14.
+El jugador 2 siembra un campo del terreno 9 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 2 hortalizas. Cantidad HORTALIZA: 13.
+El jugador 2 siembra un campo del terreno 6 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 2 hortalizas. Cantidad HORTALIZA: 12.
+El jugador 2 siembra un campo del terreno 13 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 3 cereales. Cantidad CEREAL: 18.
+El jugador 2 siembra un campo del terreno 5 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 3 cereales. Cantidad CEREAL: 17.
+El jugador 2 siembra un campo del terreno 10 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 2 hortalizas. Cantidad HORTALIZA: 11.
+El jugador 1 obtiene 1 ADOBE usando la carta 1-adobe. Cantidad ADOBE: 2.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en la habitación del terreno 2. Cantidad OVEJA: 2.
+El jugador 1 obtiene 1 JUNCO usando la carta 1-junco. Cantidad JUNCO: 3.
+Fase: REGRESO AL HOGAR.
+Reseteando estados y valores temporales...
+Fase: COSECHA - RECOLECCION.
+El jugador 2 recolecta 1 HORTALIZA del campo del terreno 4. El campo tiene ahora 1 HORTALIZA. Cantidad HORTALIZA: 12.
+El jugador 2 recolecta 1 CEREAL del campo del terreno 5. El campo tiene ahora 2 CEREAL. Cantidad CEREAL: 18.
+El jugador 2 recolecta 1 CEREAL del campo del terreno 12. El campo tiene ahora 2 CEREAL. Cantidad CEREAL: 19.
+El jugador 2 recolecta 1 HORTALIZA del campo del terreno 3. El campo tiene ahora 1 HORTALIZA. Cantidad HORTALIZA: 13.
+El jugador 2 recolecta 1 HORTALIZA del campo del terreno 15. El campo tiene ahora 1 HORTALIZA. Cantidad HORTALIZA: 14.
+El jugador 2 recolecta 1 HORTALIZA del campo del terreno 14. El campo tiene ahora 1 HORTALIZA. Cantidad HORTALIZA: 15.
+El jugador 2 recolecta 1 HORTALIZA del campo del terreno 6. El campo tiene ahora 1 HORTALIZA. Cantidad HORTALIZA: 16.
+El jugador 2 recolecta 1 HORTALIZA del campo del terreno 10. El campo tiene ahora 1 HORTALIZA. Cantidad HORTALIZA: 17.
+El jugador 2 recolecta 1 HORTALIZA del campo del terreno 9. El campo tiene ahora 1 HORTALIZA. Cantidad HORTALIZA: 18.
+El jugador 2 recolecta 1 CEREAL del campo del terreno 7. El campo tiene ahora 2 CEREAL. Cantidad CEREAL: 20.
+El jugador 2 recolecta 1 CEREAL del campo del terreno 13. El campo tiene ahora 2 CEREAL. Cantidad CEREAL: 21.
+El jugador 2 recolecta 1 HORTALIZA del campo del terreno 11. El campo tiene ahora 1 HORTALIZA. Cantidad HORTALIZA: 19.
+El jugador 2 recolecta 1 HORTALIZA del campo del terreno 8. El campo tiene ahora 1 HORTALIZA. Cantidad HORTALIZA: 20.
+Fase: COSECHA - ALIMENTACION.
+El jugador 1 alimenta al adulto con ID 1. Cantidad COMIDA: 0.
+El jugador 2 alimenta al adulto con ID 2. Cantidad COMIDA: 2.
+El jugador 2 alimenta al adulto con ID 1. Cantidad COMIDA: 0.
+El jugador 1 obtiene 1 COMIDA por 1 CEREAL. Cantidad CEREAL: 19. Cantidad COMIDA: 1.
+El jugador 1 obtiene 1 COMIDA por 1 HORTALIZA. Cantidad HORTALIZA: 19. Cantidad COMIDA: 2.
+El jugador 1 alimenta al adulto con ID 2. Cantidad COMIDA: 0.
+Fase: COSECHA - PROCREACION.
+Fase: PRINCIPIO DE RONDA.
+Periodo: 2 Ronda: 5.
+Nueva carta de ronda disponible: ampliar-la-familia-y-despues-1-adquisicion-menor.
+El jugador 2 comienza la ronda por ser el jugador inicial.
+Fase: REPOSICION.
+Repuesto el número de unidades del recurso de la carta pescar. Cantidad total: 4.
+Repuesto el número de unidades del recurso de la carta 3-maderas. Cantidad total: 15.
+Repuesto el número de unidades del recurso de la carta 1-junco. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta 1-oveja. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta jornalero. Cantidad total: 10.
+Repuesto el número de unidades del recurso de la carta coger-1-cereal. Cantidad total: 4.
+Repuesto el número de unidades del recurso de la carta 1-adobe. Cantidad total: 1.
+Fase: JORNADA LABORAL.
+El jugador 2 obtiene 10 COMIDA usando la carta jornalero. Cantidad COMIDA: 10.
+El jugador 1 siembra un campo del terreno 5 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 2 hortalizas. Cantidad HORTALIZA: 18.
+El jugador 1 siembra un campo del terreno 15 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 2 hortalizas. Cantidad HORTALIZA: 17.
+El jugador 1 siembra un campo del terreno 8 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 2 hortalizas. Cantidad HORTALIZA: 16.
+El jugador 1 siembra un campo del terreno 14 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 2 hortalizas. Cantidad HORTALIZA: 15.
+El jugador 1 siembra un campo del terreno 12 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 2 hortalizas. Cantidad HORTALIZA: 14.
+El jugador 1 siembra un campo del terreno 6 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 3 cereales. Cantidad CEREAL: 18.
+El jugador 1 siembra un campo del terreno 4 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 3 cereales. Cantidad CEREAL: 17.
+El jugador 1 siembra un campo del terreno 13 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 3 cereales. Cantidad CEREAL: 16.
+El jugador 1 siembra un campo del terreno 7 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 2 hortalizas. Cantidad HORTALIZA: 13.
+El jugador 1 siembra un campo del terreno 10 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 2 hortalizas. Cantidad HORTALIZA: 12.
+El jugador 1 siembra un campo del terreno 9 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 2 hortalizas. Cantidad HORTALIZA: 11.
+El jugador 1 siembra un campo del terreno 3 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 3 cereales. Cantidad CEREAL: 15.
+El jugador 1 siembra un campo del terreno 11 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 2 hortalizas. Cantidad HORTALIZA: 10.
+El jugador 2 pasa a ser el nuevo jugador inicial usando la carta jugador-inicial-y-o-adquisicion-menor.
+El jugador 1 obtiene 1 JUNCO usando la carta 1-junco. Cantidad JUNCO: 4.
+Fase: REGRESO AL HOGAR.
+Reseteando estados y valores temporales...
+Fase: PRINCIPIO DE RONDA.
+Periodo: 2 Número: 6.
+Nueva carta de ronda disponible: 1-piedra-1.
+El jugador 2 comienza la ronda por ser el jugador inicial.
+Fase: REPOSICION.
+Repuesto el número de unidades del recurso de la carta 1-piedra-1. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta 1-oveja. Cantidad total: 2.
+Repuesto el número de unidades del recurso de la carta 3-maderas. Cantidad total: 18.
+Repuesto el número de unidades del recurso de la carta pescar. Cantidad total: 5.
+Repuesto el número de unidades del recurso de la carta coger-1-cereal. Cantidad total: 5.
+Repuesto el número de unidades del recurso de la carta jornalero. Cantidad total: 2.
+Repuesto el número de unidades del recurso de la carta 1-adobe. Cantidad total: 2.
+Repuesto el número de unidades del recurso de la carta 1-junco. Cantidad total: 1.
+Fase: JORNADA LABORAL.
+El jugador 2 pasa a ser el nuevo jugador inicial usando la carta jugador-inicial-y-o-adquisicion-menor.
+El jugador 1 obtiene 18 MADERA usando la carta 3-maderas. Cantidad MADERA: 18.
+El jugador 2 obtiene 5 COMIDA usando la carta pescar. Cantidad COMIDA: 15.
+El jugador 1 obtiene 1 JUNCO usando la carta 1-junco. Cantidad JUNCO: 5.
+Fase: REGRESO AL HOGAR.
+Reseteando estados y valores temporales...
+Fase: PRINCIPIO DE RONDA.
+Periodo: 2 Número: 7.
+El jugador 2 comienza la ronda por ser el jugador inicial.
+Nueva carta de ronda disponible: reformar-y-despues-1-adquisicion-mayor-o-menor.
+Fase: REPOSICION.
+Repuesto el número de unidades del recurso de la carta 1-adobe. Cantidad total: 3.
+Repuesto el número de unidades del recurso de la carta 1-junco. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta 3-maderas. Cantidad total: 3.
+Repuesto el número de unidades del recurso de la carta coger-1-cereal. Cantidad total: 6.
+Repuesto el número de unidades del recurso de la carta 1-piedra-1. Cantidad total: 2.
+Repuesto el número de unidades del recurso de la carta 1-oveja. Cantidad total: 3.
+Repuesto el número de unidades del recurso de la carta jornalero. Cantidad total: 4.
+Repuesto el número de unidades del recurso de la carta pescar. Cantidad total: 1.
+Fase: JORNADA LABORAL.
+El jugador 2 obtiene 3 MADERA usando la carta 3-maderas. Cantidad MADERA: 3.
+El jugador 1 obtiene 1 COMIDA usando la carta pescar. Cantidad COMIDA: 1.
+El jugador 2 obtiene 4 COMIDA usando la carta jornalero. Cantidad COMIDA: 19.
+El jugador 1 obtiene 1 JUNCO usando la carta 1-junco. Cantidad JUNCO: 6.
+Fase: REGRESO AL HOGAR.
+Reseteando estados y valores temporales...
+Fase: COSECHA - RECOLECCION.
+El jugador 1 recolecta 1 HORTALIZA del campo del terreno 9. El campo tiene ahora 1 HORTALIZA. Cantidad HORTALIZA: 11.
+El jugador 2 recolecta 1 HORTALIZA del campo del terreno 3. El campo tiene ahora 0 HORTALIZA. Cantidad HORTALIZA: 21.
+El jugador 2 recolecta 1 HORTALIZA del campo del terreno 11. El campo tiene ahora 0 HORTALIZA. Cantidad HORTALIZA: 22.
+El jugador 2 recolecta 1 HORTALIZA del campo del terreno 9. El campo tiene ahora 0 HORTALIZA. Cantidad HORTALIZA: 23.
+El jugador 1 recolecta 1 HORTALIZA del campo del terreno 11. El campo tiene ahora 1 HORTALIZA. Cantidad HORTALIZA: 12.
+El jugador 1 recolecta 1 HORTALIZA del campo del terreno 12. El campo tiene ahora 1 HORTALIZA. Cantidad HORTALIZA: 13.
+El jugador 1 recolecta 1 HORTALIZA del campo del terreno 7. El campo tiene ahora 1 HORTALIZA. Cantidad HORTALIZA: 14.
+El jugador 1 recolecta 1 HORTALIZA del campo del terreno 10. El campo tiene ahora 1 HORTALIZA. Cantidad HORTALIZA: 15.
+El jugador 1 recolecta 1 HORTALIZA del campo del terreno 5. El campo tiene ahora 1 HORTALIZA. Cantidad HORTALIZA: 16.
+El jugador 1 recolecta 1 HORTALIZA del campo del terreno 14. El campo tiene ahora 1 HORTALIZA. Cantidad HORTALIZA: 17.
+El jugador 1 recolecta 1 HORTALIZA del campo del terreno 15. El campo tiene ahora 1 HORTALIZA. Cantidad HORTALIZA: 18.
+El jugador 1 recolecta 1 HORTALIZA del campo del terreno 8. El campo tiene ahora 1 HORTALIZA. Cantidad HORTALIZA: 19.
+El jugador 2 recolecta 1 HORTALIZA del campo del terreno 14. El campo tiene ahora 0 HORTALIZA. Cantidad HORTALIZA: 24.
+El jugador 2 recolecta 1 HORTALIZA del campo del terreno 6. El campo tiene ahora 0 HORTALIZA. Cantidad HORTALIZA: 25.
+El jugador 2 recolecta 1 HORTALIZA del campo del terreno 8. El campo tiene ahora 0 HORTALIZA. Cantidad HORTALIZA: 26.
+El jugador 2 recolecta 1 HORTALIZA del campo del terreno 4. El campo tiene ahora 0 HORTALIZA. Cantidad HORTALIZA: 27.
+El jugador 1 recolecta 1 CEREAL del campo del terreno 4. El campo tiene ahora 2 CEREAL. Cantidad CEREAL: 16.
+El jugador 1 recolecta 1 CEREAL del campo del terreno 3. El campo tiene ahora 2 CEREAL. Cantidad CEREAL: 17.
+El jugador 2 recolecta 1 CEREAL del campo del terreno 13. El campo tiene ahora 1 CEREAL. Cantidad CEREAL: 22.
+El jugador 1 recolecta 1 CEREAL del campo del terreno 6. El campo tiene ahora 2 CEREAL. Cantidad CEREAL: 18.
+El jugador 2 recolecta 1 CEREAL del campo del terreno 12. El campo tiene ahora 1 CEREAL. Cantidad CEREAL: 23.
+El jugador 2 recolecta 1 CEREAL del campo del terreno 7. El campo tiene ahora 1 CEREAL. Cantidad CEREAL: 24.
+El jugador 2 recolecta 1 CEREAL del campo del terreno 5. El campo tiene ahora 1 CEREAL. Cantidad CEREAL: 25.
+El jugador 2 recolecta 1 HORTALIZA del campo del terreno 15. El campo tiene ahora 0 HORTALIZA. Cantidad HORTALIZA: 28.
+El jugador 2 recolecta 1 HORTALIZA del campo del terreno 10. El campo tiene ahora 0 HORTALIZA. Cantidad HORTALIZA: 29.
+El jugador 1 recolecta 1 CEREAL del campo del terreno 13. El campo tiene ahora 2 CEREAL. Cantidad CEREAL: 19.
+Fase: COSECHA - ALIMENTACION.
+El jugador 2 alimenta al adulto con ID 2. Cantidad COMIDA: 17.
+El jugador 2 alimenta al adulto con ID 1. Cantidad COMIDA: 15.
+El jugador 1 obtiene 1 COMIDA por 1 CEREAL. Cantidad CEREAL: 18. Cantidad COMIDA: 2.
+El jugador 1 alimenta al adulto con ID 2. Cantidad COMIDA: 0.
+El jugador 1 obtiene 1 COMIDA por 1 CEREAL. Cantidad CEREAL: 17. Cantidad COMIDA: 1.
+El jugador 1 obtiene 1 COMIDA por 1 HORTALIZA. Cantidad HORTALIZA: 18. Cantidad COMIDA: 2.
+El jugador 1 alimenta al adulto con ID 1. Cantidad COMIDA: 0.
+Fase: COSECHA - PROCREACION.
+Fase: PRINCIPIO DE RONDA.
+Periodo: 3 Ronda: 8.
+El jugador 2 comienza la ronda por ser el jugador inicial.
+Nueva carta de ronda disponible: 1-jabali.
+Fase: REPOSICION.
+Repuesto el número de unidades del recurso de la carta pescar. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta 1-adobe. Cantidad total: 4.
+Repuesto el número de unidades del recurso de la carta 1-oveja. Cantidad total: 4.
+Repuesto el número de unidades del recurso de la carta 1-jabali. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta coger-1-cereal. Cantidad total: 7.
+Repuesto el número de unidades del recurso de la carta jornalero. Cantidad total: 2.
+Repuesto el número de unidades del recurso de la carta 1-junco. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta 3-maderas. Cantidad total: 3.
+Repuesto el número de unidades del recurso de la carta 1-piedra-1. Cantidad total: 3.
+Fase: JORNADA LABORAL.
+El jugador 2 siembra un campo del terreno 3 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 2 hortalizas. Cantidad HORTALIZA: 28.
+El jugador 2 siembra un campo del terreno 8 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 2 hortalizas. Cantidad HORTALIZA: 27.
+El jugador 2 siembra un campo del terreno 14 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 2 hortalizas. Cantidad HORTALIZA: 26.
+El jugador 2 siembra un campo del terreno 6 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 2 hortalizas. Cantidad HORTALIZA: 25.
+El jugador 2 siembra un campo del terreno 4 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 2 hortalizas. Cantidad HORTALIZA: 24.
+El jugador 2 siembra un campo del terreno 11 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 2 hortalizas. Cantidad HORTALIZA: 23.
+El jugador 2 siembra un campo del terreno 15 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 2 hortalizas. Cantidad HORTALIZA: 22.
+El jugador 2 siembra un campo del terreno 10 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 2 hortalizas. Cantidad HORTALIZA: 21.
+El jugador 2 siembra un campo del terreno 9 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 3 cereales. Cantidad CEREAL: 24.
+El jugador 1 reforma la habitación del terreno 1 usando la carta reformar-y-despues-1-adquisicion-mayor-o-menor.
+La habitación pasa a estar construida de adobe. Cantidad ADOBE: 1. Cantidad JUNCO: 5.
+El jugador 1 reforma la habitación del terreno 2 usando la carta reformar-y-despues-1-adquisicion-mayor-o-menor.
+La habitación pasa a estar construida de adobe. Cantidad ADOBE: 0. Cantidad JUNCO: 4.
+El jugador 2 obtiene 3 PIEDRA usando la carta 1-piedra-1. Cantidad PIEDRA: 3.
+El jugador 1 pasa a ser el nuevo jugador inicial usando la carta jugador-inicial-y-o-adquisicion-menor.
+Fase: REGRESO AL HOGAR.
+Reseteando estados y valores temporales...
+Fase: PRINCIPIO DE RONDA.
+Periodo: 3 Número: 9.
+Nueva carta de ronda disponible: coger-1-hortaliza.
+El jugador 1 comienza la ronda por ser el jugador inicial.
+Fase: REPOSICION.
+Repuesto el número de unidades del recurso de la carta 1-oveja. Cantidad total: 5.
+Repuesto el número de unidades del recurso de la carta 1-adobe. Cantidad total: 5.
+Repuesto el número de unidades del recurso de la carta 3-maderas. Cantidad total: 6.
+Repuesto el número de unidades del recurso de la carta 1-piedra-1. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta jornalero. Cantidad total: 4.
+Repuesto el número de unidades del recurso de la carta coger-1-hortaliza. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta coger-1-cereal. Cantidad total: 8.
+Repuesto el número de unidades del recurso de la carta pescar. Cantidad total: 2.
+Repuesto el número de unidades del recurso de la carta 1-jabali. Cantidad total: 2.
+Repuesto el número de unidades del recurso de la carta 1-junco. Cantidad total: 2.
+Fase: JORNADA LABORAL.
+El jugador 1 obtiene 1 HORTALIZA usando la carta coger-1-hortaliza. Cantidad HORTALIZA: 19.
+El jugador 2 obtiene 2 JUNCO usando la carta 1-junco. Cantidad JUNCO: 3.
+El jugador 1 obtiene 6 MADERA usando la carta 3-maderas. Cantidad MADERA: 24.
+El jugador 2 compra la adquisición mayor cesteria usando la carta 1-adquisicion-mayor-o-menor.
+Cantidad JUNCO: 1. Cantidad PIEDRA: 1.
+Fase: REGRESO AL HOGAR.
+Reseteando estados y valores temporales...
+Fase: COSECHA - RECOLECCION.
+El jugador 1 recolecta 1 HORTALIZA del campo del terreno 10. El campo tiene ahora 0 HORTALIZA. Cantidad HORTALIZA: 20.
+El jugador 1 recolecta 1 HORTALIZA del campo del terreno 8. El campo tiene ahora 0 HORTALIZA. Cantidad HORTALIZA: 21.
+El jugador 1 recolecta 1 HORTALIZA del campo del terreno 14. El campo tiene ahora 0 HORTALIZA. Cantidad HORTALIZA: 22.
+El jugador 1 recolecta 1 HORTALIZA del campo del terreno 9. El campo tiene ahora 0 HORTALIZA. Cantidad HORTALIZA: 23.
+El jugador 1 recolecta 1 HORTALIZA del campo del terreno 15. El campo tiene ahora 0 HORTALIZA. Cantidad HORTALIZA: 24.
+El jugador 2 recolecta 1 HORTALIZA del campo del terreno 6. El campo tiene ahora 1 HORTALIZA. Cantidad HORTALIZA: 22.
+El jugador 1 recolecta 1 HORTALIZA del campo del terreno 7. El campo tiene ahora 0 HORTALIZA. Cantidad HORTALIZA: 25.
+El jugador 1 recolecta 1 HORTALIZA del campo del terreno 5. El campo tiene ahora 0 HORTALIZA. Cantidad HORTALIZA: 26.
+El jugador 1 recolecta 1 HORTALIZA del campo del terreno 11. El campo tiene ahora 0 HORTALIZA. Cantidad HORTALIZA: 27.
+El jugador 1 recolecta 1 CEREAL del campo del terreno 3. El campo tiene ahora 1 CEREAL. Cantidad CEREAL: 18.
+El jugador 1 recolecta 1 CEREAL del campo del terreno 13. El campo tiene ahora 1 CEREAL. Cantidad CEREAL: 19.
+El jugador 2 recolecta 1 HORTALIZA del campo del terreno 4. El campo tiene ahora 1 HORTALIZA. Cantidad HORTALIZA: 23.
+El jugador 2 recolecta 1 HORTALIZA del campo del terreno 15. El campo tiene ahora 1 HORTALIZA. Cantidad HORTALIZA: 24.
+El jugador 2 recolecta 1 HORTALIZA del campo del terreno 3. El campo tiene ahora 1 HORTALIZA. Cantidad HORTALIZA: 25.
+El jugador 2 recolecta 1 HORTALIZA del campo del terreno 14. El campo tiene ahora 1 HORTALIZA. Cantidad HORTALIZA: 26.
+El jugador 2 recolecta 1 HORTALIZA del campo del terreno 8. El campo tiene ahora 1 HORTALIZA. Cantidad HORTALIZA: 27.
+El jugador 2 recolecta 1 HORTALIZA del campo del terreno 10. El campo tiene ahora 1 HORTALIZA. Cantidad HORTALIZA: 28.
+El jugador 2 recolecta 1 HORTALIZA del campo del terreno 11. El campo tiene ahora 1 HORTALIZA. Cantidad HORTALIZA: 29.
+El jugador 1 recolecta 1 CEREAL del campo del terreno 6. El campo tiene ahora 1 CEREAL. Cantidad CEREAL: 20.
+El jugador 1 recolecta 1 HORTALIZA del campo del terreno 12. El campo tiene ahora 0 HORTALIZA. Cantidad HORTALIZA: 28.
+El jugador 2 recolecta 1 CEREAL del campo del terreno 9. El campo tiene ahora 2 CEREAL. Cantidad CEREAL: 25.
+El jugador 2 recolecta 1 CEREAL del campo del terreno 7. El campo tiene ahora 0 CEREAL. Cantidad CEREAL: 26.
+El jugador 2 recolecta 1 CEREAL del campo del terreno 13. El campo tiene ahora 0 CEREAL. Cantidad CEREAL: 27.
+El jugador 2 recolecta 1 CEREAL del campo del terreno 12. El campo tiene ahora 0 CEREAL. Cantidad CEREAL: 28.
+El jugador 2 recolecta 1 CEREAL del campo del terreno 5. El campo tiene ahora 0 CEREAL. Cantidad CEREAL: 29.
+El jugador 1 recolecta 1 CEREAL del campo del terreno 4. El campo tiene ahora 1 CEREAL. Cantidad CEREAL: 21.
+Fase: COSECHA - ALIMENTACION.
+El jugador 2 alimenta al adulto con ID 1. Cantidad COMIDA: 13.
+El jugador 2 alimenta al adulto con ID 2. Cantidad COMIDA: 11.
+El jugador 1 obtiene 1 COMIDA por 1 HORTALIZA. Cantidad HORTALIZA: 27. Cantidad COMIDA: 1.
+El jugador 1 obtiene 1 COMIDA por 1 CEREAL. Cantidad CEREAL: 20. Cantidad COMIDA: 2.
+El jugador 1 alimenta al adulto con ID 1. Cantidad COMIDA: 0.
+El jugador 1 obtiene 1 COMIDA por 1 CEREAL. Cantidad CEREAL: 19. Cantidad COMIDA: 1.
+El jugador 1 obtiene 1 COMIDA por 1 CEREAL. Cantidad CEREAL: 18. Cantidad COMIDA: 2.
+El jugador 1 alimenta al adulto con ID 2. Cantidad COMIDA: 0.
+Fase: COSECHA - PROCREACION.
+Fase: PRINCIPIO DE RONDA.
+Periodo: 4 Ronda: 10.
+Nueva carta de ronda disponible: 1-vaca.
+El jugador 1 comienza la ronda por ser el jugador inicial.
+Fase: REPOSICION.
+Repuesto el número de unidades del recurso de la carta pescar. Cantidad total: 3.
+Repuesto el número de unidades del recurso de la carta 1-junco. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta coger-1-cereal. Cantidad total: 9.
+Repuesto el número de unidades del recurso de la carta 3-maderas. Cantidad total: 3.
+Repuesto el número de unidades del recurso de la carta 1-piedra-1. Cantidad total: 2.
+Repuesto el número de unidades del recurso de la carta 1-jabali. Cantidad total: 3.
+Repuesto el número de unidades del recurso de la carta jornalero. Cantidad total: 6.
+Repuesto el número de unidades del recurso de la carta 1-oveja. Cantidad total: 6.
+Repuesto el número de unidades del recurso de la carta coger-1-hortaliza. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta 1-adobe. Cantidad total: 6.
+Repuesto el número de unidades del recurso de la carta 1-vaca. Cantidad total: 1.
+Fase: JORNADA LABORAL.
+El jugador 1 siembra un campo del terreno 10 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 2 hortalizas. Cantidad HORTALIZA: 26.
+El jugador 1 siembra un campo del terreno 15 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 3 cereales. Cantidad CEREAL: 17.
+El jugador 1 siembra un campo del terreno 9 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 2 hortalizas. Cantidad HORTALIZA: 25.
+El jugador 1 siembra un campo del terreno 14 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 2 hortalizas. Cantidad HORTALIZA: 24.
+El jugador 1 siembra un campo del terreno 11 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 3 cereales. Cantidad CEREAL: 16.
+El jugador 1 siembra un campo del terreno 7 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 3 cereales. Cantidad CEREAL: 15.
+El jugador 1 siembra un campo del terreno 5 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 3 cereales. Cantidad CEREAL: 14.
+El jugador 1 siembra un campo del terreno 12 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 3 cereales. Cantidad CEREAL: 13.
+El jugador 1 siembra un campo del terreno 8 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 3 cereales. Cantidad CEREAL: 12.
+El jugador 2 obtiene 2 PIEDRA usando la carta 1-piedra-1. Cantidad PIEDRA: 3.
+El jugador 1 obtiene 6 COMIDA usando la carta jornalero. Cantidad COMIDA: 6.
+El jugador 2 obtiene 1 HORTALIZA usando la carta coger-1-hortaliza. Cantidad HORTALIZA: 30.
+Fase: REGRESO AL HOGAR.
+Reseteando estados y valores temporales...
+Fase: PRINCIPIO DE RONDA.
+Periodo: 4 Número: 11.
+Nueva carta de ronda disponible: 1-piedra-2.
+El jugador 1 comienza la ronda por ser el jugador inicial.
+Fase: REPOSICION.
+Repuesto el número de unidades del recurso de la carta pescar. Cantidad total: 4.
+Repuesto el número de unidades del recurso de la carta 1-vaca. Cantidad total: 2.
+Repuesto el número de unidades del recurso de la carta 1-junco. Cantidad total: 2.
+Repuesto el número de unidades del recurso de la carta coger-1-cereal. Cantidad total: 10.
+Repuesto el número de unidades del recurso de la carta 1-piedra-2. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta 1-adobe. Cantidad total: 7.
+Repuesto el número de unidades del recurso de la carta 1-jabali. Cantidad total: 4.
+Repuesto el número de unidades del recurso de la carta coger-1-hortaliza. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta 3-maderas. Cantidad total: 6.
+Repuesto el número de unidades del recurso de la carta 1-oveja. Cantidad total: 7.
+Repuesto el número de unidades del recurso de la carta 1-piedra-1. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta jornalero. Cantidad total: 2.
+Fase: JORNADA LABORAL.
+El jugador 1 obtiene 6 MADERA usando la carta 3-maderas. Cantidad MADERA: 30.
+El jugador 2 siembra un campo del terreno 13 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 3 cereales. Cantidad CEREAL: 28.
+El jugador 2 siembra un campo del terreno 5 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 3 cereales. Cantidad CEREAL: 27.
+El jugador 2 siembra un campo del terreno 12 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 3 cereales. Cantidad CEREAL: 26.
+El jugador 2 siembra un campo del terreno 7 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 3 cereales. Cantidad CEREAL: 25.
+El jugador 1 obtiene 1 PIEDRA usando la carta 1-piedra-1. Cantidad PIEDRA: 1.
+El jugador 2 obtiene 1 PIEDRA usando la carta 1-piedra-2. Cantidad PIEDRA: 4.
+Fase: REGRESO AL HOGAR.
+Reseteando estados y valores temporales...
+Fase: COSECHA - RECOLECCION.
+El jugador 1 recolecta 1 CEREAL del campo del terreno 6. El campo tiene ahora 0 CEREAL. Cantidad CEREAL: 13.
+El jugador 1 recolecta 1 CEREAL del campo del terreno 15. El campo tiene ahora 2 CEREAL. Cantidad CEREAL: 14.
+El jugador 1 recolecta 1 CEREAL del campo del terreno 7. El campo tiene ahora 2 CEREAL. Cantidad CEREAL: 15.
+El jugador 2 recolecta 1 HORTALIZA del campo del terreno 15. El campo tiene ahora 0 HORTALIZA. Cantidad HORTALIZA: 31.
+El jugador 2 recolecta 1 HORTALIZA del campo del terreno 4. El campo tiene ahora 0 HORTALIZA. Cantidad HORTALIZA: 32.
+El jugador 1 recolecta 1 CEREAL del campo del terreno 4. El campo tiene ahora 0 CEREAL. Cantidad CEREAL: 16.
+El jugador 2 recolecta 1 HORTALIZA del campo del terreno 8. El campo tiene ahora 0 HORTALIZA. Cantidad HORTALIZA: 33.
+El jugador 2 recolecta 1 CEREAL del campo del terreno 7. El campo tiene ahora 2 CEREAL. Cantidad CEREAL: 26.
+El jugador 1 recolecta 1 HORTALIZA del campo del terreno 14. El campo tiene ahora 1 HORTALIZA. Cantidad HORTALIZA: 25.
+El jugador 1 recolecta 1 HORTALIZA del campo del terreno 9. El campo tiene ahora 1 HORTALIZA. Cantidad HORTALIZA: 26.
+El jugador 2 recolecta 1 CEREAL del campo del terreno 9. El campo tiene ahora 1 CEREAL. Cantidad CEREAL: 27.
+El jugador 2 recolecta 1 CEREAL del campo del terreno 5. El campo tiene ahora 2 CEREAL. Cantidad CEREAL: 28.
+El jugador 2 recolecta 1 CEREAL del campo del terreno 13. El campo tiene ahora 2 CEREAL. Cantidad CEREAL: 29.
+El jugador 1 recolecta 1 CEREAL del campo del terreno 5. El campo tiene ahora 2 CEREAL. Cantidad CEREAL: 17.
+El jugador 1 recolecta 1 CEREAL del campo del terreno 11. El campo tiene ahora 2 CEREAL. Cantidad CEREAL: 18.
+El jugador 1 recolecta 1 CEREAL del campo del terreno 12. El campo tiene ahora 2 CEREAL. Cantidad CEREAL: 19.
+El jugador 1 recolecta 1 CEREAL del campo del terreno 8. El campo tiene ahora 2 CEREAL. Cantidad CEREAL: 20.
+El jugador 2 recolecta 1 HORTALIZA del campo del terreno 10. El campo tiene ahora 0 HORTALIZA. Cantidad HORTALIZA: 34.
+El jugador 2 recolecta 1 HORTALIZA del campo del terreno 14. El campo tiene ahora 0 HORTALIZA. Cantidad HORTALIZA: 35.
+El jugador 2 recolecta 1 HORTALIZA del campo del terreno 11. El campo tiene ahora 0 HORTALIZA. Cantidad HORTALIZA: 36.
+El jugador 2 recolecta 1 HORTALIZA del campo del terreno 3. El campo tiene ahora 0 HORTALIZA. Cantidad HORTALIZA: 37.
+El jugador 2 recolecta 1 HORTALIZA del campo del terreno 6. El campo tiene ahora 0 HORTALIZA. Cantidad HORTALIZA: 38.
+El jugador 2 recolecta 1 CEREAL del campo del terreno 12. El campo tiene ahora 2 CEREAL. Cantidad CEREAL: 30.
+El jugador 1 recolecta 1 CEREAL del campo del terreno 3. El campo tiene ahora 0 CEREAL. Cantidad CEREAL: 21.
+El jugador 1 recolecta 1 CEREAL del campo del terreno 13. El campo tiene ahora 0 CEREAL. Cantidad CEREAL: 22.
+El jugador 1 recolecta 1 HORTALIZA del campo del terreno 10. El campo tiene ahora 1 HORTALIZA. Cantidad HORTALIZA: 27.
+Fase: COSECHA - ALIMENTACION.
+El jugador 2 alimenta al adulto con ID 2. Cantidad COMIDA: 9.
+El jugador 1 alimenta al adulto con ID 2. Cantidad COMIDA: 4.
+El jugador 1 alimenta al adulto con ID 1. Cantidad COMIDA: 2.
+El jugador 2 alimenta al adulto con ID 1. Cantidad COMIDA: 7.
+Fase: COSECHA - PROCREACION.
+Fase: PRINCIPIO DE RONDA.
+Periodo: 5 Ronda: 12.
+El jugador 1 comienza la ronda por ser el jugador inicial.
+Nueva carta de ronda disponible: ampliar-la-familia-sin-tener-habitaciones-libres.
+Fase: REPOSICION.
+Repuesto el número de unidades del recurso de la carta 1-junco. Cantidad total: 3.
+Repuesto el número de unidades del recurso de la carta 1-jabali. Cantidad total: 5.
+Repuesto el número de unidades del recurso de la carta coger-1-cereal. Cantidad total: 11.
+Repuesto el número de unidades del recurso de la carta 1-piedra-2. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta pescar. Cantidad total: 5.
+Repuesto el número de unidades del recurso de la carta 1-adobe. Cantidad total: 8.
+Repuesto el número de unidades del recurso de la carta 3-maderas. Cantidad total: 3.
+Repuesto el número de unidades del recurso de la carta 1-vaca. Cantidad total: 3.
+Repuesto el número de unidades del recurso de la carta jornalero. Cantidad total: 4.
+Repuesto el número de unidades del recurso de la carta coger-1-hortaliza. Cantidad total: 2.
+Repuesto el número de unidades del recurso de la carta 1-piedra-1. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta 1-oveja. Cantidad total: 8.
+Fase: JORNADA LABORAL.
+El jugador 1 obtiene 3 MADERA usando la carta 3-maderas. Cantidad MADERA: 33.
+El jugador 2 siembra un campo del terreno 3 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 2 hortalizas. Cantidad HORTALIZA: 37.
+El jugador 2 siembra un campo del terreno 8 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 3 cereales. Cantidad CEREAL: 29.
+El jugador 2 siembra un campo del terreno 11 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 3 cereales. Cantidad CEREAL: 28.
+El jugador 2 siembra un campo del terreno 4 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 3 cereales. Cantidad CEREAL: 27.
+El jugador 2 siembra un campo del terreno 14 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 3 cereales. Cantidad CEREAL: 26.
+El jugador 2 siembra un campo del terreno 6 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 3 cereales. Cantidad CEREAL: 25.
+El jugador 2 siembra un campo del terreno 10 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 3 cereales. Cantidad CEREAL: 24.
+El jugador 2 siembra un campo del terreno 15 usando la carta sembrar-y-o-hornear-pan.
+El campo tiene ahora 3 cereales. Cantidad CEREAL: 23.
+El jugador 1 pasa a ser el nuevo jugador inicial usando la carta jugador-inicial-y-o-adquisicion-menor.
+El jugador 2 amplia su familia usando la carta ampliar-la-familia-sin-tener-habitaciones-libres. Cantidad PERSONA: 3.
+Fase: REGRESO AL HOGAR.
+Reseteando estados y valores temporales...
+Fase: PRINCIPIO DE RONDA.
+Periodo: 5 Número: 13.
+El jugador 1 comienza la ronda por ser el jugador inicial.
+Nueva carta de ronda disponible: arar-1-campo-y-o-sembrar.
+Fase: REPOSICION.
+Repuesto el número de unidades del recurso de la carta jornalero. Cantidad total: 6.
+Repuesto el número de unidades del recurso de la carta pescar. Cantidad total: 6.
+Repuesto el número de unidades del recurso de la carta 1-jabali. Cantidad total: 6.
+Repuesto el número de unidades del recurso de la carta 1-piedra-2. Cantidad total: 2.
+Repuesto el número de unidades del recurso de la carta 1-junco. Cantidad total: 4.
+Repuesto el número de unidades del recurso de la carta coger-1-hortaliza. Cantidad total: 3.
+Repuesto el número de unidades del recurso de la carta coger-1-cereal. Cantidad total: 12.
+Repuesto el número de unidades del recurso de la carta 1-piedra-1. Cantidad total: 2.
+Repuesto el número de unidades del recurso de la carta 1-oveja. Cantidad total: 9.
+Repuesto el número de unidades del recurso de la carta 1-vaca. Cantidad total: 4.
+Repuesto el número de unidades del recurso de la carta 3-maderas. Cantidad total: 3.
+Repuesto el número de unidades del recurso de la carta 1-adobe. Cantidad total: 9.
+Fase: JORNADA LABORAL.
+El jugador 1 amplia su familia usando la carta ampliar-la-familia-sin-tener-habitaciones-libres. Cantidad PERSONA: 3.
+El jugador 2 obtiene 4 JUNCO usando la carta 1-junco. Cantidad JUNCO: 5.
+El jugador 1 obtiene 3 HORTALIZA usando la carta coger-1-hortaliza. Cantidad HORTALIZA: 30.
+El jugador 2 compra la adquisición mayor horno-de-piedra usando la carta 1-adquisicion-mayor-o-menor.
+Cantidad ADOBE: 1. Cantidad PIEDRA: 1.
+Fase: REGRESO AL HOGAR.
+Reseteando estados y valores temporales...
+Fase: COSECHA - RECOLECCION.
+El jugador 2 recolecta 1 HORTALIZA del campo del terreno 3. El campo tiene ahora 1 HORTALIZA. Cantidad HORTALIZA: 38.
+El jugador 1 recolecta 1 CEREAL del campo del terreno 12. El campo tiene ahora 1 CEREAL. Cantidad CEREAL: 23.
+El jugador 1 recolecta 1 CEREAL del campo del terreno 7. El campo tiene ahora 1 CEREAL. Cantidad CEREAL: 24.
+El jugador 2 recolecta 1 CEREAL del campo del terreno 8. El campo tiene ahora 2 CEREAL. Cantidad CEREAL: 24.
+El jugador 2 recolecta 1 CEREAL del campo del terreno 15. El campo tiene ahora 2 CEREAL. Cantidad CEREAL: 25.
+El jugador 2 recolecta 1 CEREAL del campo del terreno 4. El campo tiene ahora 2 CEREAL. Cantidad CEREAL: 26.
+El jugador 2 recolecta 1 CEREAL del campo del terreno 12. El campo tiene ahora 1 CEREAL. Cantidad CEREAL: 27.
+El jugador 2 recolecta 1 CEREAL del campo del terreno 11. El campo tiene ahora 2 CEREAL. Cantidad CEREAL: 28.
+El jugador 2 recolecta 1 CEREAL del campo del terreno 14. El campo tiene ahora 2 CEREAL. Cantidad CEREAL: 29.
+El jugador 2 recolecta 1 CEREAL del campo del terreno 7. El campo tiene ahora 1 CEREAL. Cantidad CEREAL: 30.
+El jugador 1 recolecta 1 CEREAL del campo del terreno 15. El campo tiene ahora 1 CEREAL. Cantidad CEREAL: 25.
+El jugador 1 recolecta 1 CEREAL del campo del terreno 8. El campo tiene ahora 1 CEREAL. Cantidad CEREAL: 26.
+El jugador 1 recolecta 1 CEREAL del campo del terreno 11. El campo tiene ahora 1 CEREAL. Cantidad CEREAL: 27.
+El jugador 2 recolecta 1 CEREAL del campo del terreno 5. El campo tiene ahora 1 CEREAL. Cantidad CEREAL: 31.
+El jugador 2 recolecta 1 CEREAL del campo del terreno 9. El campo tiene ahora 0 CEREAL. Cantidad CEREAL: 32.
+El jugador 2 recolecta 1 CEREAL del campo del terreno 13. El campo tiene ahora 1 CEREAL. Cantidad CEREAL: 33.
+El jugador 1 recolecta 1 CEREAL del campo del terreno 5. El campo tiene ahora 1 CEREAL. Cantidad CEREAL: 28.
+El jugador 1 recolecta 1 HORTALIZA del campo del terreno 9. El campo tiene ahora 0 HORTALIZA. Cantidad HORTALIZA: 31.
+El jugador 1 recolecta 1 HORTALIZA del campo del terreno 10. El campo tiene ahora 0 HORTALIZA. Cantidad HORTALIZA: 32.
+El jugador 1 recolecta 1 HORTALIZA del campo del terreno 14. El campo tiene ahora 0 HORTALIZA. Cantidad HORTALIZA: 33.
+El jugador 2 recolecta 1 CEREAL del campo del terreno 10. El campo tiene ahora 2 CEREAL. Cantidad CEREAL: 34.
+El jugador 2 recolecta 1 CEREAL del campo del terreno 6. El campo tiene ahora 2 CEREAL. Cantidad CEREAL: 35.
+Fase: COSECHA - ALIMENTACION.
+El jugador 1 alimenta al adulto con ID 1. Cantidad COMIDA: 0.
+El jugador 2 alimenta al adulto con ID 2. Cantidad COMIDA: 5.
+El jugador 2 alimenta al adulto con ID 1. Cantidad COMIDA: 3.
+El jugador 2 alimenta al adulto con ID 1. Cantidad COMIDA: 1.
+El jugador 1 obtiene 1 COMIDA por 1 CEREAL. Cantidad CEREAL: 27. Cantidad COMIDA: 1.
+El jugador 1 alimenta al recién nacido con ID 1. Cantidad COMIDA: 0.
+El jugador 1 obtiene 1 COMIDA por 1 CEREAL. Cantidad CEREAL: 26. Cantidad COMIDA: 1.
+El jugador 1 obtiene 1 COMIDA por 1 HORTALIZA. Cantidad HORTALIZA: 32. Cantidad COMIDA: 2.
+El jugador 1 alimenta al adulto con ID 2. Cantidad COMIDA: 0.
+Fase: COSECHA - PROCREACION.
+Fase: PRINCIPIO DE RONDA.
+Periodo: 6 Ronda: 14.
+El jugador 1 comienza la ronda por ser el jugador inicial.
+Nueva carta de ronda disponible: reformar-y-despues-construir-vallas.
+Fase: REPOSICION.
+Repuesto el número de unidades del recurso de la carta coger-1-hortaliza. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta 1-adobe. Cantidad total: 10.
+Repuesto el número de unidades del recurso de la carta 1-jabali. Cantidad total: 7.
+Repuesto el número de unidades del recurso de la carta 1-piedra-2. Cantidad total: 3.
+Repuesto el número de unidades del recurso de la carta 1-oveja. Cantidad total: 10.
+Repuesto el número de unidades del recurso de la carta 1-piedra-1. Cantidad total: 3.
+Repuesto el número de unidades del recurso de la carta jornalero. Cantidad total: 8.
+Repuesto el número de unidades del recurso de la carta 3-maderas. Cantidad total: 6.
+Repuesto el número de unidades del recurso de la carta 1-junco. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta coger-1-cereal. Cantidad total: 13.
+Repuesto el número de unidades del recurso de la carta pescar. Cantidad total: 7.
+Repuesto el número de unidades del recurso de la carta 1-vaca. Cantidad total: 5.
+Fase: JORNADA LABORAL.
+El jugador 1 siembra un campo del terreno 9 usando la carta arar-1-campo-y-o-sembrar.
+El campo tiene ahora 3 cereales. Cantidad CEREAL: 25.
+El jugador 1 siembra un campo del terreno 3 usando la carta arar-1-campo-y-o-sembrar.
+El campo tiene ahora 2 hortalizas. Cantidad HORTALIZA: 31.
+El jugador 1 siembra un campo del terreno 14 usando la carta arar-1-campo-y-o-sembrar.
+El campo tiene ahora 2 hortalizas. Cantidad HORTALIZA: 30.
+El jugador 1 siembra un campo del terreno 6 usando la carta arar-1-campo-y-o-sembrar.
+El campo tiene ahora 2 hortalizas. Cantidad HORTALIZA: 29.
+El jugador 1 siembra un campo del terreno 13 usando la carta arar-1-campo-y-o-sembrar.
+El campo tiene ahora 3 cereales. Cantidad CEREAL: 24.
+El jugador 1 siembra un campo del terreno 10 usando la carta arar-1-campo-y-o-sembrar.
+El campo tiene ahora 3 cereales. Cantidad CEREAL: 23.
+El jugador 1 siembra un campo del terreno 4 usando la carta arar-1-campo-y-o-sembrar.
+El campo tiene ahora 3 cereales. Cantidad CEREAL: 22.
+El jugador 2 pasa a ser el nuevo jugador inicial usando la carta jugador-inicial-y-o-adquisicion-menor.
+El jugador 1 obtiene 3 PIEDRA usando la carta 1-piedra-1. Cantidad PIEDRA: 4.
+El jugador 1 compra la adquisición mayor ebanisteria usando la carta reformar-y-despues-1-adquisicion-mayor-o-menor.
+Cantidad MADERA: 31. Cantidad PIEDRA: 2.
+El jugador 2 obtiene 7 COMIDA usando la carta pescar. Cantidad COMIDA: 8.
+El jugador 1 reforma la habitación del terreno 2 usando la carta reformar-y-despues-1-adquisicion-mayor-o-menor.
+La habitación pasa a estar construida de piedra. Cantidad PIEDRA: 1. Cantidad JUNCO: 3.
+El jugador 1 reforma la habitación del terreno 1 usando la carta reformar-y-despues-1-adquisicion-mayor-o-menor.
+La habitación pasa a estar construida de piedra. Cantidad PIEDRA: 0. Cantidad JUNCO: 2.
+El jugador 2 hornea pan a través de la carta sembrar-y-o-hornear-pan. Intercambia 2 CEREAL por 8 unidades de comida, usando la carta horno-de-piedra.
+Cantidad CEREAL: 33. Cantidad COMIDA: 16.
+Fase: REGRESO AL HOGAR.
+Reseteando estados y valores temporales...
+Fase: COSECHA - RECOLECCION.
+El jugador 2 recolecta 1 HORTALIZA del campo del terreno 3. El campo tiene ahora 0 HORTALIZA. Cantidad HORTALIZA: 39.
+El jugador 2 recolecta 1 CEREAL del campo del terreno 15. El campo tiene ahora 1 CEREAL. Cantidad CEREAL: 34.
+El jugador 2 recolecta 1 CEREAL del campo del terreno 4. El campo tiene ahora 1 CEREAL. Cantidad CEREAL: 35.
+El jugador 1 recolecta 1 CEREAL del campo del terreno 12. El campo tiene ahora 0 CEREAL. Cantidad CEREAL: 23.
+El jugador 1 recolecta 1 CEREAL del campo del terreno 15. El campo tiene ahora 0 CEREAL. Cantidad CEREAL: 24.
+El jugador 1 recolecta 1 CEREAL del campo del terreno 8. El campo tiene ahora 0 CEREAL. Cantidad CEREAL: 25.
+El jugador 1 recolecta 1 CEREAL del campo del terreno 11. El campo tiene ahora 0 CEREAL. Cantidad CEREAL: 26.
+El jugador 1 recolecta 1 CEREAL del campo del terreno 10. El campo tiene ahora 2 CEREAL. Cantidad CEREAL: 27.
+El jugador 1 recolecta 1 CEREAL del campo del terreno 9. El campo tiene ahora 2 CEREAL. Cantidad CEREAL: 28.
+El jugador 2 recolecta 1 CEREAL del campo del terreno 6. El campo tiene ahora 1 CEREAL. Cantidad CEREAL: 36.
+El jugador 2 recolecta 1 CEREAL del campo del terreno 11. El campo tiene ahora 1 CEREAL. Cantidad CEREAL: 37.
+El jugador 2 recolecta 1 CEREAL del campo del terreno 10. El campo tiene ahora 1 CEREAL. Cantidad CEREAL: 38.
+El jugador 2 recolecta 1 CEREAL del campo del terreno 8. El campo tiene ahora 1 CEREAL. Cantidad CEREAL: 39.
+El jugador 2 recolecta 1 CEREAL del campo del terreno 14. El campo tiene ahora 1 CEREAL. Cantidad CEREAL: 40.
+El jugador 2 recolecta 1 CEREAL del campo del terreno 13. El campo tiene ahora 0 CEREAL. Cantidad CEREAL: 41.
+El jugador 1 recolecta 1 HORTALIZA del campo del terreno 14. El campo tiene ahora 1 HORTALIZA. Cantidad HORTALIZA: 30.
+El jugador 1 recolecta 1 CEREAL del campo del terreno 5. El campo tiene ahora 0 CEREAL. Cantidad CEREAL: 29.
+El jugador 2 recolecta 1 CEREAL del campo del terreno 5. El campo tiene ahora 0 CEREAL. Cantidad CEREAL: 42.
+El jugador 2 recolecta 1 CEREAL del campo del terreno 12. El campo tiene ahora 0 CEREAL. Cantidad CEREAL: 43.
+El jugador 1 recolecta 1 CEREAL del campo del terreno 4. El campo tiene ahora 2 CEREAL. Cantidad CEREAL: 30.
+El jugador 1 recolecta 1 CEREAL del campo del terreno 7. El campo tiene ahora 0 CEREAL. Cantidad CEREAL: 31.
+El jugador 1 recolecta 1 CEREAL del campo del terreno 13. El campo tiene ahora 2 CEREAL. Cantidad CEREAL: 32.
+El jugador 1 recolecta 1 HORTALIZA del campo del terreno 6. El campo tiene ahora 1 HORTALIZA. Cantidad HORTALIZA: 31.
+El jugador 1 recolecta 1 HORTALIZA del campo del terreno 3. El campo tiene ahora 1 HORTALIZA. Cantidad HORTALIZA: 32.
+El jugador 2 recolecta 1 CEREAL del campo del terreno 7. El campo tiene ahora 0 CEREAL. Cantidad CEREAL: 44.
+Fase: COSECHA - ALIMENTACION.
+El jugador 2 alimenta al adulto con ID 2. Cantidad COMIDA: 14.
+El jugador 2 alimenta al adulto con ID 1. Cantidad COMIDA: 12.
+El jugador 2 alimenta al adulto con ID 1. Cantidad COMIDA: 10.
+El jugador 1 obtiene 2 COMIDA por 1 MADERA usando la carta ebanisteria. Cantidad MADERA: 30. Cantidad COMIDA: 2.
+El jugador 1 alimenta al adulto con ID 1. Cantidad COMIDA: 0.
+El jugador 1 obtiene 2 COMIDA por 1 MADERA usando la carta ebanisteria. Cantidad MADERA: 29. Cantidad COMIDA: 2.
+El jugador 1 alimenta al adulto con ID 1. Cantidad COMIDA: 0.
+El jugador 1 obtiene 2 COMIDA por 1 MADERA usando la carta ebanisteria. Cantidad MADERA: 28. Cantidad COMIDA: 2.
+El jugador 1 alimenta al adulto con ID 2. Cantidad COMIDA: 0.
+Fase: COSECHA - PROCREACION.
+Fase: PRINCIPIO DE RONDA.
+Periodo: 7 Ronda: 15.
+Fase: CÁLCULO DE LA PUNTUACIÓN.
+El jugador 2 suma 1 unidades de CEREAL a la reserva personal. TOTAL: 45.
+El jugador 2 suma 1 unidades de CEREAL a la reserva personal. TOTAL: 46.
+El jugador 2 suma 1 unidades de CEREAL a la reserva personal. TOTAL: 47.
+El jugador 2 suma 1 unidades de CEREAL a la reserva personal. TOTAL: 48.
+El jugador 1 suma 1 unidades de HORTALIZA a la reserva personal. TOTAL: 33.
+El jugador 1 suma 1 unidades de HORTALIZA a la reserva personal. TOTAL: 34.
+El jugador 1 suma 2 unidades de CEREAL a la reserva personal. TOTAL: 34.
+El jugador 1 suma 2 unidades de CEREAL a la reserva personal. TOTAL: 36.
+El jugador 1 suma 2 unidades de CEREAL a la reserva personal. TOTAL: 38.
+El jugador 2 suma 1 unidades de CEREAL a la reserva personal. TOTAL: 49.
+El jugador 1 suma 1 unidades de HORTALIZA a la reserva personal. TOTAL: 35.
+El jugador 2 suma 1 unidades de CEREAL a la reserva personal. TOTAL: 50.
+El jugador 2 suma 1 unidades de CEREAL a la reserva personal. TOTAL: 51.
+El jugador 1 suma 2 unidades de CEREAL a la reserva personal. TOTAL: 40.
+El jugador 1 suma 4 puntos por tener 2 habitaciones de piedra . TOTAL: 2.
+El jugador 1 suma 0 puntos por tener 0 unidades de ESTABLO. TOTAL: 4.
+El jugador 1 suma -13 puntos por tener 13 unidades de TERRENO-VACIO. TOTAL: -9.
+El jugador 1 suma -1 puntos por tener 0 unidades de VACA. TOTAL: -10.
+El jugador 1 suma 9 puntos por tener 3 unidades de PERSONA. TOTAL: -1.
+El jugador 1 suma -1 puntos por tener 0 unidades de PASTO. TOTAL: -2.
+El jugador 1 suma 0 puntos por tener 0 unidades de CARTA-DE-MENDICIDAD. TOTAL: -2.
+El jugador 1 suma 2 puntos por haber comprado la carta ebanisteria. TOTAL: 0.
+El jugador 1 suma 1 puntos por tener 2 unidades de OVEJA. TOTAL: 1.
+El jugador 1 suma -1 puntos por tener 0 unidades de CAMPO. TOTAL: 0.
+El jugador 2 suma 0 puntos por tener 0 unidades de CARTA-DE-MENDICIDAD. TOTAL: 0.
+El jugador 2 suma -1 puntos por tener 0 unidades de PASTO. TOTAL: -1.
+El jugador 2 suma 1 puntos por tener 2 unidades de OVEJA. TOTAL: 0.
+El jugador 2 suma 2 por haber comprado la carta cesteria. 
+Consigue 3 puntos extra por tener 5 unidades de JUNCO. TOTAL: 5.
+El jugador 2 suma -13 puntos por tener 13 unidades de TERRENO-VACIO. TOTAL: -8.
+El jugador 2 suma -1 puntos por tener 0 unidades de CAMPO. TOTAL: -9.
+El jugador 2 suma -1 puntos por tener 0 unidades de VACA. TOTAL: -10.
+El jugador 2 suma 9 puntos por tener 3 unidades de PERSONA. TOTAL: -1.
+El jugador 2 suma 3 puntos por haber comprado la carta horno-de-piedra. TOTAL: 2.
+El jugador 2 suma 0 puntos por tener 0 unidades de ESTABLO. TOTAL: 2.
+PUNTOS TOTALES JUGADOR 2: 2.
+PUNTOS TOTALES JUGADOR 1: 0.
+El jugador 2 ha ganado la partida con 2 puntos de diferencia.

@@ -1,0 +1,563 @@
+Estrategia cambiada a random.
+Fase: PRINCIPIO DE RONDA.
+Periodo: 1 Ronda: 1.
+Nueva carta de ronda disponible: 1-adquisicion-mayor-o-menor.
+El jugador 1 comienza la ronda por ser el jugador inicial.
+Fase: REPOSICION.
+Repuesto el número de unidades del recurso de la carta 3-maderas. Cantidad total: 3.
+Repuesto el número de unidades del recurso de la carta pescar. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta jornalero. Cantidad total: 2.
+Repuesto el número de unidades del recurso de la carta 1-adobe. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta 1-junco. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta coger-1-cereal. Cantidad total: 1.
+Fase: JORNADA LABORAL.
+El jugador 1 pasa a ser el nuevo jugador inicial usando la carta jugador-inicial-y-o-adquisicion-menor.
+El jugador 2 obtiene 1 JUNCO usando la carta 1-junco. Cantidad JUNCO: 1.
+El jugador 1 obtiene 1 COMIDA usando la carta pescar. Cantidad COMIDA: 3.
+El jugador 2 obtiene 1 CEREAL usando la carta coger-1-cereal. Cantidad CEREAL: 1.
+Fase: REGRESO AL HOGAR.
+Reseteando estados y valores temporales...
+Fase: PRINCIPIO DE RONDA.
+Periodo: 1 Número: 2.
+Nueva carta de ronda disponible: sembrar-y-o-hornear-pan.
+El jugador 1 comienza la ronda por ser el jugador inicial.
+Fase: REPOSICION.
+Repuesto el número de unidades del recurso de la carta 1-adobe. Cantidad total: 2.
+Repuesto el número de unidades del recurso de la carta jornalero. Cantidad total: 4.
+Repuesto el número de unidades del recurso de la carta 1-junco. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta coger-1-cereal. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta 3-maderas. Cantidad total: 6.
+Repuesto el número de unidades del recurso de la carta pescar. Cantidad total: 1.
+Fase: JORNADA LABORAL.
+El jugador 1 obtiene 1 CEREAL usando la carta coger-1-cereal. Cantidad CEREAL: 1.
+El jugador 2 obtiene 1 JUNCO usando la carta 1-junco. Cantidad JUNCO: 2.
+El jugador 1 obtiene 6 MADERA usando la carta 3-maderas. Cantidad MADERA: 6.
+El jugador 2 obtiene 1 COMIDA usando la carta pescar. Cantidad COMIDA: 4.
+Fase: REGRESO AL HOGAR.
+Reseteando estados y valores temporales...
+Fase: PRINCIPIO DE RONDA.
+Periodo: 1 Número: 3.
+Nueva carta de ronda disponible: 1-oveja.
+El jugador 1 comienza la ronda por ser el jugador inicial.
+Fase: REPOSICION.
+Repuesto el número de unidades del recurso de la carta 3-maderas. Cantidad total: 3.
+Repuesto el número de unidades del recurso de la carta 1-oveja. Cantidad total: 501.
+Repuesto el número de unidades del recurso de la carta 1-adobe. Cantidad total: 3.
+Repuesto el número de unidades del recurso de la carta pescar. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta jornalero. Cantidad total: 6.
+Repuesto el número de unidades del recurso de la carta coger-1-cereal. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta 1-junco. Cantidad total: 1.
+Fase: JORNADA LABORAL.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto vacío del terreno 15. Cantidad OVEJA: 1.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en la habitación del terreno 2. Cantidad OVEJA: 2.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto vacío del terreno 9. Cantidad OVEJA: 3.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto vacío del terreno 11. Cantidad OVEJA: 4.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto vacío del terreno 3. Cantidad OVEJA: 5.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto vacío del terreno 5. Cantidad OVEJA: 6.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 5.
+Animales en el pasto: 2. Cantidad OVEJA: 7.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto vacío del terreno 7. Cantidad OVEJA: 8.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en la habitación del terreno 1. Cantidad OVEJA: 9.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 15.
+Animales en el pasto: 2. Cantidad OVEJA: 10.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 7.
+Animales en el pasto: 2. Cantidad OVEJA: 11.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 15.
+Animales en el pasto: 3. Cantidad OVEJA: 12.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 9.
+Animales en el pasto: 2. Cantidad OVEJA: 13.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto vacío del terreno 13. Cantidad OVEJA: 14.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 3.
+Animales en el pasto: 2. Cantidad OVEJA: 15.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 3.
+Animales en el pasto: 3. Cantidad OVEJA: 16.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 11.
+Animales en el pasto: 2. Cantidad OVEJA: 17.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 5.
+Animales en el pasto: 3. Cantidad OVEJA: 18.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 7.
+Animales en el pasto: 3. Cantidad OVEJA: 19.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 9.
+Animales en el pasto: 3. Cantidad OVEJA: 20.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 15.
+Animales en el pasto: 4. Cantidad OVEJA: 21.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 5.
+Animales en el pasto: 4. Cantidad OVEJA: 22.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 11.
+Animales en el pasto: 3. Cantidad OVEJA: 23.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 5.
+Animales en el pasto: 5. Cantidad OVEJA: 24.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 3.
+Animales en el pasto: 4. Cantidad OVEJA: 25.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 9.
+Animales en el pasto: 4. Cantidad OVEJA: 26.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 13.
+Animales en el pasto: 2. Cantidad OVEJA: 27.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 3.
+Animales en el pasto: 5. Cantidad OVEJA: 28.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 13.
+Animales en el pasto: 3. Cantidad OVEJA: 29.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 7.
+Animales en el pasto: 4. Cantidad OVEJA: 30.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 9.
+Animales en el pasto: 5. Cantidad OVEJA: 31.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 7.
+Animales en el pasto: 5. Cantidad OVEJA: 32.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 3.
+Animales en el pasto: 6. Cantidad OVEJA: 33.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 13.
+Animales en el pasto: 4. Cantidad OVEJA: 34.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 9.
+Animales en el pasto: 6. Cantidad OVEJA: 35.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 5.
+Animales en el pasto: 6. Cantidad OVEJA: 36.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 9.
+Animales en el pasto: 7. Cantidad OVEJA: 37.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 9.
+Animales en el pasto: 8. Cantidad OVEJA: 38.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 11.
+Animales en el pasto: 4. Cantidad OVEJA: 39.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 11.
+Animales en el pasto: 5. Cantidad OVEJA: 40.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 7.
+Animales en el pasto: 6. Cantidad OVEJA: 41.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 11.
+Animales en el pasto: 6. Cantidad OVEJA: 42.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 3.
+Animales en el pasto: 7. Cantidad OVEJA: 43.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 3.
+Animales en el pasto: 8. Cantidad OVEJA: 44.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 7.
+Animales en el pasto: 7. Cantidad OVEJA: 45.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 5.
+Animales en el pasto: 7. Cantidad OVEJA: 46.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 5.
+Animales en el pasto: 8. Cantidad OVEJA: 47.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 7.
+Animales en el pasto: 8. Cantidad OVEJA: 48.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 11.
+Animales en el pasto: 7. Cantidad OVEJA: 49.
+El jugador 1 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 11.
+Animales en el pasto: 8. Cantidad OVEJA: 50.
+El jugador 2 pasa a ser el nuevo jugador inicial usando la carta jugador-inicial-y-o-adquisicion-menor.
+El jugador 1 obtiene 3 ADOBE usando la carta 1-adobe. Cantidad ADOBE: 3.
+El jugador 2 obtiene 3 MADERA usando la carta 3-maderas. Cantidad MADERA: 3.
+Fase: REGRESO AL HOGAR.
+Reseteando estados y valores temporales...
+Fase: PRINCIPIO DE RONDA.
+Periodo: 1 Número: 4.
+Nueva carta de ronda disponible: construir-vallas.
+El jugador 2 comienza la ronda por ser el jugador inicial.
+Fase: REPOSICION.
+Repuesto el número de unidades del recurso de la carta 1-adobe. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta pescar. Cantidad total: 2.
+Repuesto el número de unidades del recurso de la carta 1-junco. Cantidad total: 2.
+Repuesto el número de unidades del recurso de la carta 3-maderas. Cantidad total: 3.
+Repuesto el número de unidades del recurso de la carta 1-oveja. Cantidad total: 452.
+Repuesto el número de unidades del recurso de la carta coger-1-cereal. Cantidad total: 2.
+Repuesto el número de unidades del recurso de la carta jornalero. Cantidad total: 8.
+Fase: JORNADA LABORAL.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto vacío del terreno 7. Cantidad OVEJA: 1.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto vacío del terreno 11. Cantidad OVEJA: 2.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto vacío del terreno 3. Cantidad OVEJA: 3.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 11.
+Animales en el pasto: 2. Cantidad OVEJA: 4.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en la habitación del terreno 2. Cantidad OVEJA: 5.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 3.
+Animales en el pasto: 2. Cantidad OVEJA: 6.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 11.
+Animales en el pasto: 3. Cantidad OVEJA: 7.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto vacío del terreno 9. Cantidad OVEJA: 8.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 7.
+Animales en el pasto: 2. Cantidad OVEJA: 9.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 11.
+Animales en el pasto: 4. Cantidad OVEJA: 10.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 7.
+Animales en el pasto: 3. Cantidad OVEJA: 11.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto vacío del terreno 5. Cantidad OVEJA: 12.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 5.
+Animales en el pasto: 2. Cantidad OVEJA: 13.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 5.
+Animales en el pasto: 3. Cantidad OVEJA: 14.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto vacío del terreno 15. Cantidad OVEJA: 15.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 3.
+Animales en el pasto: 3. Cantidad OVEJA: 16.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 15.
+Animales en el pasto: 2. Cantidad OVEJA: 17.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en la habitación del terreno 1. Cantidad OVEJA: 18.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 7.
+Animales en el pasto: 4. Cantidad OVEJA: 19.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto vacío del terreno 13. Cantidad OVEJA: 20.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 5.
+Animales en el pasto: 4. Cantidad OVEJA: 21.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 9.
+Animales en el pasto: 2. Cantidad OVEJA: 22.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 9.
+Animales en el pasto: 3. Cantidad OVEJA: 23.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 11.
+Animales en el pasto: 5. Cantidad OVEJA: 24.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 5.
+Animales en el pasto: 5. Cantidad OVEJA: 25.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 3.
+Animales en el pasto: 4. Cantidad OVEJA: 26.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 11.
+Animales en el pasto: 6. Cantidad OVEJA: 27.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 7.
+Animales en el pasto: 5. Cantidad OVEJA: 28.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 7.
+Animales en el pasto: 6. Cantidad OVEJA: 29.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 9.
+Animales en el pasto: 4. Cantidad OVEJA: 30.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 9.
+Animales en el pasto: 5. Cantidad OVEJA: 31.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 3.
+Animales en el pasto: 5. Cantidad OVEJA: 32.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 5.
+Animales en el pasto: 6. Cantidad OVEJA: 33.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 3.
+Animales en el pasto: 6. Cantidad OVEJA: 34.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 7.
+Animales en el pasto: 7. Cantidad OVEJA: 35.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 11.
+Animales en el pasto: 7. Cantidad OVEJA: 36.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 7.
+Animales en el pasto: 8. Cantidad OVEJA: 37.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 9.
+Animales en el pasto: 6. Cantidad OVEJA: 38.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 15.
+Animales en el pasto: 3. Cantidad OVEJA: 39.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 11.
+Animales en el pasto: 8. Cantidad OVEJA: 40.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 15.
+Animales en el pasto: 4. Cantidad OVEJA: 41.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 5.
+Animales en el pasto: 7. Cantidad OVEJA: 42.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 13.
+Animales en el pasto: 2. Cantidad OVEJA: 43.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 9.
+Animales en el pasto: 7. Cantidad OVEJA: 44.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 3.
+Animales en el pasto: 7. Cantidad OVEJA: 45.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 9.
+Animales en el pasto: 8. Cantidad OVEJA: 46.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 5.
+Animales en el pasto: 8. Cantidad OVEJA: 47.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 3.
+Animales en el pasto: 8. Cantidad OVEJA: 48.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 13.
+Animales en el pasto: 3. Cantidad OVEJA: 49.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 13.
+Animales en el pasto: 4. Cantidad OVEJA: 50.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 13.
+Animales en el pasto: 5. Cantidad OVEJA: 51.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 13.
+Animales en el pasto: 6. Cantidad OVEJA: 52.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 13.
+Animales en el pasto: 7. Cantidad OVEJA: 53.
+El jugador 2 obtiene 1 OVEJA usando la carta 1-oveja. El animal queda colocado en el pasto no vacío del terreno 13.
+Animales en el pasto: 8. Cantidad OVEJA: 54.
+El jugador 1 obtiene 2 CEREAL usando la carta coger-1-cereal. Cantidad CEREAL: 3.
+El jugador 2 obtiene 2 JUNCO usando la carta 1-junco. Cantidad JUNCO: 4.
+El jugador 1 obtiene 3 MADERA usando la carta 3-maderas. Cantidad MADERA: 9.
+Fase: REGRESO AL HOGAR.
+Reseteando estados y valores temporales...
+Fase: COSECHA - RECOLECCION.
+Fase: COSECHA - ALIMENTACION.
+El jugador 1 alimenta al adulto con ID 1. Cantidad COMIDA: 1.
+El jugador 2 alimenta al adulto con ID 2. Cantidad COMIDA: 2.
+El jugador 2 alimenta al adulto con ID 1. Cantidad COMIDA: 0.
+El jugador 1 obtiene 1 COMIDA por 1 CEREAL. Cantidad CEREAL: 2. Cantidad COMIDA: 2.
+El jugador 1 alimenta al adulto con ID 2. Cantidad COMIDA: 0.
+Fase: COSECHA - PROCREACION.
+Fase: PRINCIPIO DE RONDA.
+Periodo: 2 Ronda: 5.
+Nueva carta de ronda disponible: 1-piedra-1.
+El jugador 2 comienza la ronda por ser el jugador inicial.
+Fase: REPOSICION.
+Repuesto el número de unidades del recurso de la carta coger-1-cereal. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta 3-maderas. Cantidad total: 3.
+Repuesto el número de unidades del recurso de la carta pescar. Cantidad total: 3.
+Repuesto el número de unidades del recurso de la carta 1-adobe. Cantidad total: 2.
+Repuesto el número de unidades del recurso de la carta 1-junco. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta 1-oveja. Cantidad total: 399.
+Repuesto el número de unidades del recurso de la carta 1-piedra-1. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta jornalero. Cantidad total: 10.
+Fase: JORNADA LABORAL.
+El jugador 2 obtiene 3 MADERA usando la carta 3-maderas. Cantidad MADERA: 6.
+El jugador 1 pasa a ser el nuevo jugador inicial usando la carta jugador-inicial-y-o-adquisicion-menor.
+El jugador 2 obtiene 10 COMIDA usando la carta jornalero. Cantidad COMIDA: 10.
+El jugador 1 obtiene 1 PIEDRA usando la carta 1-piedra-1. Cantidad PIEDRA: 1.
+Fase: REGRESO AL HOGAR.
+Reseteando estados y valores temporales...
+Fase: PRINCIPIO DE RONDA.
+Periodo: 2 Número: 6.
+Nueva carta de ronda disponible: reformar-y-despues-1-adquisicion-mayor-o-menor.
+El jugador 1 comienza la ronda por ser el jugador inicial.
+Fase: REPOSICION.
+Repuesto el número de unidades del recurso de la carta pescar. Cantidad total: 4.
+Repuesto el número de unidades del recurso de la carta 1-adobe. Cantidad total: 3.
+Repuesto el número de unidades del recurso de la carta jornalero. Cantidad total: 2.
+Repuesto el número de unidades del recurso de la carta 3-maderas. Cantidad total: 3.
+Repuesto el número de unidades del recurso de la carta coger-1-cereal. Cantidad total: 2.
+Repuesto el número de unidades del recurso de la carta 1-oveja. Cantidad total: 400.
+Repuesto el número de unidades del recurso de la carta 1-piedra-1. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta 1-junco. Cantidad total: 2.
+Fase: JORNADA LABORAL.
+El jugador 1 obtiene 3 ADOBE usando la carta 1-adobe. Cantidad ADOBE: 6.
+El jugador 2 obtiene 2 JUNCO usando la carta 1-junco. Cantidad JUNCO: 6.
+El jugador 1 obtiene 3 MADERA usando la carta 3-maderas. Cantidad MADERA: 12.
+El jugador 2 pasa a ser el nuevo jugador inicial usando la carta jugador-inicial-y-o-adquisicion-menor.
+Fase: REGRESO AL HOGAR.
+Reseteando estados y valores temporales...
+Fase: PRINCIPIO DE RONDA.
+Periodo: 2 Número: 7.
+Nueva carta de ronda disponible: ampliar-la-familia-y-despues-1-adquisicion-menor.
+El jugador 2 comienza la ronda por ser el jugador inicial.
+Fase: REPOSICION.
+Repuesto el número de unidades del recurso de la carta 1-piedra-1. Cantidad total: 2.
+Repuesto el número de unidades del recurso de la carta 1-adobe. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta coger-1-cereal. Cantidad total: 3.
+Repuesto el número de unidades del recurso de la carta jornalero. Cantidad total: 4.
+Repuesto el número de unidades del recurso de la carta 1-oveja. Cantidad total: 401.
+Repuesto el número de unidades del recurso de la carta pescar. Cantidad total: 5.
+Repuesto el número de unidades del recurso de la carta 1-junco. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta 3-maderas. Cantidad total: 3.
+Fase: JORNADA LABORAL.
+El jugador 2 obtiene 1 JUNCO usando la carta 1-junco. Cantidad JUNCO: 7.
+El jugador 1 obtiene 4 COMIDA usando la carta jornalero. Cantidad COMIDA: 4.
+El jugador 2 obtiene 3 MADERA usando la carta 3-maderas. Cantidad MADERA: 9.
+El jugador 1 obtiene 1 ADOBE usando la carta 1-adobe. Cantidad ADOBE: 7.
+Fase: REGRESO AL HOGAR.
+Reseteando estados y valores temporales...
+Fase: COSECHA - RECOLECCION.
+Fase: COSECHA - ALIMENTACION.
+El jugador 2 alimenta al adulto con ID 1. Cantidad COMIDA: 8.
+El jugador 1 alimenta al adulto con ID 2. Cantidad COMIDA: 2.
+El jugador 1 alimenta al adulto con ID 1. Cantidad COMIDA: 0.
+El jugador 2 alimenta al adulto con ID 2. Cantidad COMIDA: 6.
+Fase: COSECHA - PROCREACION.
+Fase: PRINCIPIO DE RONDA.
+Periodo: 3 Ronda: 8.
+Nueva carta de ronda disponible: 1-jabali.
+El jugador 2 comienza la ronda por ser el jugador inicial.
+Fase: REPOSICION.
+Repuesto el número de unidades del recurso de la carta 1-adobe. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta 1-jabali. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta 1-oveja. Cantidad total: 402.
+Repuesto el número de unidades del recurso de la carta 3-maderas. Cantidad total: 3.
+Repuesto el número de unidades del recurso de la carta jornalero. Cantidad total: 2.
+Repuesto el número de unidades del recurso de la carta 1-junco. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta pescar. Cantidad total: 6.
+Repuesto el número de unidades del recurso de la carta coger-1-cereal. Cantidad total: 4.
+Repuesto el número de unidades del recurso de la carta 1-piedra-1. Cantidad total: 3.
+Fase: JORNADA LABORAL.
+El jugador 2 obtiene 6 COMIDA usando la carta pescar. Cantidad COMIDA: 12.
+El jugador 1 obtiene 2 COMIDA usando la carta jornalero. Cantidad COMIDA: 2.
+El jugador 2 obtiene 1 ADOBE usando la carta 1-adobe. Cantidad ADOBE: 1.
+El jugador 1 obtiene 3 PIEDRA usando la carta 1-piedra-1. Cantidad PIEDRA: 4.
+Fase: REGRESO AL HOGAR.
+Reseteando estados y valores temporales...
+Fase: PRINCIPIO DE RONDA.
+Periodo: 3 Número: 9.
+El jugador 2 comienza la ronda por ser el jugador inicial.
+Nueva carta de ronda disponible: coger-1-hortaliza.
+Fase: REPOSICION.
+Repuesto el número de unidades del recurso de la carta 1-junco. Cantidad total: 2.
+Repuesto el número de unidades del recurso de la carta 1-piedra-1. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta 3-maderas. Cantidad total: 6.
+Repuesto el número de unidades del recurso de la carta coger-1-hortaliza. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta coger-1-cereal. Cantidad total: 5.
+Repuesto el número de unidades del recurso de la carta 1-jabali. Cantidad total: 2.
+Repuesto el número de unidades del recurso de la carta pescar. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta 1-adobe. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta 1-oveja. Cantidad total: 403.
+Repuesto el número de unidades del recurso de la carta jornalero. Cantidad total: 2.
+Fase: JORNADA LABORAL.
+El jugador 2 obtiene 2 COMIDA usando la carta jornalero. Cantidad COMIDA: 14.
+El jugador 1 compra la adquisición mayor horno-de-adobe usando la carta 1-adquisicion-mayor-o-menor.
+Cantidad ADOBE: 4. Cantidad PIEDRA: 3.
+El jugador 2 obtiene 2 JUNCO usando la carta 1-junco. Cantidad JUNCO: 9.
+El jugador 1 obtiene 1 ADOBE usando la carta 1-adobe. Cantidad ADOBE: 5.
+Fase: REGRESO AL HOGAR.
+Reseteando estados y valores temporales...
+Fase: COSECHA - RECOLECCION.
+Fase: COSECHA - ALIMENTACION.
+El jugador 2 alimenta al adulto con ID 2. Cantidad COMIDA: 12.
+El jugador 2 alimenta al adulto con ID 1. Cantidad COMIDA: 10.
+El jugador 1 alimenta al adulto con ID 1. Cantidad COMIDA: 0.
+El jugador 1 obtiene 5 COMIDA por 1 CEREAL usando la carta horno-de-adobe. Cantidad CEREAL: 1. Cantidad COMIDA: 5.
+El jugador 1 alimenta al adulto con ID 2. Cantidad COMIDA: 3.
+Fase: COSECHA - PROCREACION.
+Fase: PRINCIPIO DE RONDA.
+Periodo: 4 Ronda: 10.
+El jugador 2 comienza la ronda por ser el jugador inicial.
+Nueva carta de ronda disponible: 1-vaca.
+Fase: REPOSICION.
+Repuesto el número de unidades del recurso de la carta 1-vaca. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta jornalero. Cantidad total: 2.
+Repuesto el número de unidades del recurso de la carta coger-1-hortaliza. Cantidad total: 2.
+Repuesto el número de unidades del recurso de la carta pescar. Cantidad total: 2.
+Repuesto el número de unidades del recurso de la carta 1-jabali. Cantidad total: 3.
+Repuesto el número de unidades del recurso de la carta 3-maderas. Cantidad total: 9.
+Repuesto el número de unidades del recurso de la carta 1-piedra-1. Cantidad total: 2.
+Repuesto el número de unidades del recurso de la carta 1-oveja. Cantidad total: 404.
+Repuesto el número de unidades del recurso de la carta 1-junco. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta coger-1-cereal. Cantidad total: 6.
+Repuesto el número de unidades del recurso de la carta 1-adobe. Cantidad total: 1.
+Fase: JORNADA LABORAL.
+El jugador 2 obtiene 2 COMIDA usando la carta jornalero. Cantidad COMIDA: 12.
+El jugador 1 hornea pan a través de la carta sembrar-y-o-hornear-pan. Intercambia 1 CEREAL por 5 unidades de comida, usando la carta horno-de-adobe.
+Cantidad CEREAL: 0. Cantidad COMIDA: 8.
+El jugador 2 obtiene 2 HORTALIZA usando la carta coger-1-hortaliza. Cantidad HORTALIZA: 2.
+El jugador 1 obtiene 1 ADOBE usando la carta 1-adobe. Cantidad ADOBE: 6.
+Fase: REGRESO AL HOGAR.
+Reseteando estados y valores temporales...
+Fase: PRINCIPIO DE RONDA.
+Periodo: 4 Número: 11.
+El jugador 2 comienza la ronda por ser el jugador inicial.
+Nueva carta de ronda disponible: 1-piedra-2.
+Fase: REPOSICION.
+Repuesto el número de unidades del recurso de la carta 1-oveja. Cantidad total: 405.
+Repuesto el número de unidades del recurso de la carta 1-piedra-1. Cantidad total: 3.
+Repuesto el número de unidades del recurso de la carta 1-jabali. Cantidad total: 4.
+Repuesto el número de unidades del recurso de la carta pescar. Cantidad total: 3.
+Repuesto el número de unidades del recurso de la carta 3-maderas. Cantidad total: 12.
+Repuesto el número de unidades del recurso de la carta 1-junco. Cantidad total: 2.
+Repuesto el número de unidades del recurso de la carta 1-vaca. Cantidad total: 2.
+Repuesto el número de unidades del recurso de la carta 1-piedra-2. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta coger-1-hortaliza. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta jornalero. Cantidad total: 2.
+Repuesto el número de unidades del recurso de la carta 1-adobe. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta coger-1-cereal. Cantidad total: 7.
+Fase: JORNADA LABORAL.
+El jugador 2 obtiene 2 COMIDA usando la carta jornalero. Cantidad COMIDA: 14.
+El jugador 1 obtiene 1 ADOBE usando la carta 1-adobe. Cantidad ADOBE: 7.
+El jugador 2 obtiene 7 CEREAL usando la carta coger-1-cereal. Cantidad CEREAL: 8.
+El jugador 1 obtiene 1 HORTALIZA usando la carta coger-1-hortaliza. Cantidad HORTALIZA: 1.
+Fase: REGRESO AL HOGAR.
+Reseteando estados y valores temporales...
+Fase: COSECHA - RECOLECCION.
+Fase: COSECHA - ALIMENTACION.
+El jugador 2 alimenta al adulto con ID 1. Cantidad COMIDA: 12.
+El jugador 2 alimenta al adulto con ID 2. Cantidad COMIDA: 10.
+El jugador 1 alimenta al adulto con ID 1. Cantidad COMIDA: 6.
+El jugador 1 alimenta al adulto con ID 2. Cantidad COMIDA: 4.
+Fase: COSECHA - PROCREACION.
+Fase: PRINCIPIO DE RONDA.
+Periodo: 5 Ronda: 12.
+El jugador 2 comienza la ronda por ser el jugador inicial.
+Nueva carta de ronda disponible: ampliar-la-familia-sin-tener-habitaciones-libres.
+Fase: REPOSICION.
+Repuesto el número de unidades del recurso de la carta 1-jabali. Cantidad total: 5.
+Repuesto el número de unidades del recurso de la carta jornalero. Cantidad total: 2.
+Repuesto el número de unidades del recurso de la carta 1-vaca. Cantidad total: 3.
+Repuesto el número de unidades del recurso de la carta 3-maderas. Cantidad total: 15.
+Repuesto el número de unidades del recurso de la carta 1-oveja. Cantidad total: 406.
+Repuesto el número de unidades del recurso de la carta 1-piedra-1. Cantidad total: 4.
+Repuesto el número de unidades del recurso de la carta 1-adobe. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta pescar. Cantidad total: 4.
+Repuesto el número de unidades del recurso de la carta coger-1-hortaliza. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta 1-piedra-2. Cantidad total: 2.
+Repuesto el número de unidades del recurso de la carta 1-junco. Cantidad total: 3.
+Repuesto el número de unidades del recurso de la carta coger-1-cereal. Cantidad total: 1.
+Fase: JORNADA LABORAL.
+El jugador 2 obtiene 2 PIEDRA usando la carta 1-piedra-2. Cantidad PIEDRA: 2.
+El jugador 1 obtiene 1 CEREAL usando la carta coger-1-cereal. Cantidad CEREAL: 1.
+El jugador 2 compra la adquisición mayor cesteria usando la carta 1-adquisicion-mayor-o-menor.
+Cantidad JUNCO: 7. Cantidad PIEDRA: 0.
+El jugador 1 obtiene 4 COMIDA usando la carta pescar. Cantidad COMIDA: 8.
+Fase: REGRESO AL HOGAR.
+Reseteando estados y valores temporales...
+Fase: PRINCIPIO DE RONDA.
+Periodo: 5 Número: 13.
+Nueva carta de ronda disponible: arar-1-campo-y-o-sembrar.
+El jugador 2 comienza la ronda por ser el jugador inicial.
+Fase: REPOSICION.
+Repuesto el número de unidades del recurso de la carta 3-maderas. Cantidad total: 18.
+Repuesto el número de unidades del recurso de la carta 1-piedra-1. Cantidad total: 5.
+Repuesto el número de unidades del recurso de la carta 1-adobe. Cantidad total: 2.
+Repuesto el número de unidades del recurso de la carta pescar. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta 1-vaca. Cantidad total: 4.
+Repuesto el número de unidades del recurso de la carta coger-1-cereal. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta 1-junco. Cantidad total: 4.
+Repuesto el número de unidades del recurso de la carta coger-1-hortaliza. Cantidad total: 2.
+Repuesto el número de unidades del recurso de la carta jornalero. Cantidad total: 4.
+Repuesto el número de unidades del recurso de la carta 1-oveja. Cantidad total: 407.
+Repuesto el número de unidades del recurso de la carta 1-piedra-2. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta 1-jabali. Cantidad total: 6.
+Fase: JORNADA LABORAL.
+El jugador 2 obtiene 1 CEREAL usando la carta coger-1-cereal. Cantidad CEREAL: 9.
+El jugador 1 obtiene 4 COMIDA usando la carta jornalero. Cantidad COMIDA: 12.
+El jugador 2 obtiene 1 COMIDA usando la carta pescar. Cantidad COMIDA: 11.
+El jugador 1 obtiene 5 PIEDRA usando la carta 1-piedra-1. Cantidad PIEDRA: 8.
+Fase: REGRESO AL HOGAR.
+Reseteando estados y valores temporales...
+Fase: COSECHA - RECOLECCION.
+Fase: COSECHA - ALIMENTACION.
+El jugador 2 alimenta al adulto con ID 1. Cantidad COMIDA: 9.
+El jugador 2 alimenta al adulto con ID 2. Cantidad COMIDA: 7.
+El jugador 1 alimenta al adulto con ID 2. Cantidad COMIDA: 10.
+El jugador 1 alimenta al adulto con ID 1. Cantidad COMIDA: 8.
+Fase: COSECHA - PROCREACION.
+Fase: PRINCIPIO DE RONDA.
+Periodo: 6 Ronda: 14.
+El jugador 2 comienza la ronda por ser el jugador inicial.
+Nueva carta de ronda disponible: reformar-y-despues-construir-vallas.
+Fase: REPOSICION.
+Repuesto el número de unidades del recurso de la carta 1-vaca. Cantidad total: 5.
+Repuesto el número de unidades del recurso de la carta coger-1-cereal. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta 1-piedra-2. Cantidad total: 2.
+Repuesto el número de unidades del recurso de la carta 1-junco. Cantidad total: 5.
+Repuesto el número de unidades del recurso de la carta jornalero. Cantidad total: 2.
+Repuesto el número de unidades del recurso de la carta 1-adobe. Cantidad total: 3.
+Repuesto el número de unidades del recurso de la carta 1-piedra-1. Cantidad total: 1.
+Repuesto el número de unidades del recurso de la carta 1-jabali. Cantidad total: 7.
+Repuesto el número de unidades del recurso de la carta 3-maderas. Cantidad total: 21.
+Repuesto el número de unidades del recurso de la carta 1-oveja. Cantidad total: 408.
+Repuesto el número de unidades del recurso de la carta coger-1-hortaliza. Cantidad total: 3.
+Repuesto el número de unidades del recurso de la carta pescar. Cantidad total: 1.
+Fase: JORNADA LABORAL.
+El jugador 2 obtiene 1 COMIDA usando la carta pescar. Cantidad COMIDA: 8.
+El jugador 1 compra la adquisición mayor ebanisteria usando la carta 1-adquisicion-mayor-o-menor.
+Cantidad MADERA: 10. Cantidad PIEDRA: 6.
+El jugador 2 obtiene 3 HORTALIZA usando la carta coger-1-hortaliza. Cantidad HORTALIZA: 5.
+El jugador 1 hornea pan a través de la carta sembrar-y-o-hornear-pan. Intercambia 1 CEREAL por 5 unidades de comida, usando la carta horno-de-adobe.
+Cantidad CEREAL: 0. Cantidad COMIDA: 13.
+Fase: REGRESO AL HOGAR.
+Reseteando estados y valores temporales...
+Fase: COSECHA - RECOLECCION.
+Fase: COSECHA - ALIMENTACION.
+El jugador 2 alimenta al adulto con ID 2. Cantidad COMIDA: 6.
+El jugador 1 alimenta al adulto con ID 2. Cantidad COMIDA: 11.
+El jugador 1 alimenta al adulto con ID 1. Cantidad COMIDA: 9.
+El jugador 2 alimenta al adulto con ID 1. Cantidad COMIDA: 4.
+Fase: COSECHA - PROCREACION.
+Fase: PRINCIPIO DE RONDA.
+Periodo: 7 Ronda: 15.
+Fase: CÁLCULO DE LA PUNTUACIÓN.
+El jugador 1 suma 2 por haber comprado la carta ebanisteria. 
+Consigue 3 puntos extra por tener 10 unidades de MADERA. TOTAL: 5.
+El jugador 1 suma 6 puntos por tener 2 unidades de PERSONA. TOTAL: 11.
+El jugador 1 suma 1 puntos por tener 1 unidades de HORTALIZA. TOTAL: 12.
+El jugador 1 suma 2 puntos por haber comprado la carta horno-de-adobe. TOTAL: 14.
+El jugador 1 suma -1 puntos por tener 0 unidades de CEREAL. TOTAL: 13.
+El jugador 1 suma 0 puntos por tener 0 unidades de CARTA-DE-MENDICIDAD. TOTAL: 13.
+El jugador 1 suma -13 puntos por tener 13 unidades de TERRENO-VACIO. TOTAL: 0.
+El jugador 1 suma 0 puntos por tener 0 unidades de ESTABLO. TOTAL: 0.
+El jugador 2 suma 0 puntos por tener 0 unidades de ESTABLO. TOTAL: 0.
+El jugador 2 suma -13 puntos por tener 13 unidades de TERRENO-VACIO. TOTAL: -13.
+El jugador 2 suma 4 puntos por tener 9 unidades de CEREAL. TOTAL: -9.
+El jugador 2 suma 2 por haber comprado la carta cesteria. 
+Consigue 3 puntos extra por tener 7 unidades de JUNCO. TOTAL: -4.
+El jugador 2 suma -1 puntos por tener 0 unidades de CAMPO. TOTAL: -5.
+El jugador 2 suma 6 puntos por tener 2 unidades de PERSONA. TOTAL: 1.
+El jugador 2 suma -1 puntos por tener 0 unidades de PASTO. TOTAL: 0.
+El jugador 2 suma -1 puntos por tener 0 unidades de VACA. TOTAL: -1.
+El jugador 2 suma 0 puntos por tener 0 unidades de CARTA-DE-MENDICIDAD. TOTAL: -1.
+El jugador 2 suma 4 puntos por tener 5 unidades de HORTALIZA. TOTAL: 3.
+El jugador 1 suma -1 puntos por tener 0 unidades de CAMPO. TOTAL: -1.
+El jugador 1 suma -1 puntos por tener 0 unidades de PASTO. TOTAL: -2.
+El jugador 1 suma -1 puntos por tener 0 unidades de VACA. TOTAL: -3.
+PUNTOS TOTALES JUGADOR 2: 3.
+PUNTOS TOTALES JUGADOR 1: -3.
+El jugador 2 ha ganado la partida con 6 puntos de diferencia.
